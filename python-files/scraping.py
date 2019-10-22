@@ -12,23 +12,6 @@ headers = {
     'referrer': 'https://google.com'
 }
 
-url = "https://blog.frame.io/2019/04/23/nab2019-session-cioni/"
-
-# # Header
-
-# title_html = header.find(class_ = "post-meta-title")
-# #print(len(title_html.contents))
-
-# title_str = title_html.contents[0].strip()
-# #print(title_str)
-
-# author_html = header.find(class_ = "author-name")
-# # print(author_html.contents)
-# anchor_contents = author_html.find('a')
-# # print(anchor_contents.contents)
-# author_str = anchor_contents.contents[0].strip()
-# print(author_str)
-
 def parse_page(url_link):
     res = requests.get(url_link, headers = headers)
     html = res.text.strip()
@@ -50,7 +33,6 @@ def parse_page(url_link):
 
     # Body
     content = soup.find(class_ = 'entry-content')
-    print(content.text.split())
     word_count = len(content.text.split())
     reading_level = textstat.flesch_kincaid_grade(content.text)
 
@@ -77,19 +59,36 @@ def parse_page(url_link):
     return page_data
 
 def extract_read_time(header):
-    read_time_str = header.find(class_ = 'read-time')
-    time_str = read_time_str.contents[0].strip().lower().split()[0]
+    html_str = header.find(class_ = 'read-time')
+    time_str = html_str.contents[0].strip().lower().split()[0]
     time_int = int(time_str)
-    pass
+    return time_int
 
 def extract_title(header):
-    pass
+    html_str = header.find(class_ = "post-meta-title")
+    title_str = html_str.contents[0].strip()
+    return title_str
 
 def extract_author(header):
-    pass
+    html_str = header.find(class_ = "author-name")
+    anchor_contents = html_str.find('a')
+    author_str = anchor_contents.contents[0].strip()
+    return author_str
 
 def extract_categories(header):
-    pass
+    html_str = header.find(class_ = "single-post-cat")
+    categories = html_str.find_all('a')
+    category_list = []
+    for link in categories:
+        category_name = link.contents[0].lower().strip()
+        category_list.append(category_name)
+    return category_list
 
 def extract_date(header):
-    pass
+    html_str = header.find(class_ = "single-post-date")
+    date_str = html_str.contents[0].strip()
+    return date_str
+
+
+url = "https://blog.frame.io/2019/04/23/nab2019-session-cioni/"
+print(parse_page(url))
