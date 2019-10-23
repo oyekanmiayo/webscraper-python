@@ -12,6 +12,7 @@ headers = {
     'referrer': 'https://google.com'
 }
 
+# Scrape Single Article
 def parse_page(url_link):
     res = requests.get(url_link, headers = headers)
     html = res.text.strip()
@@ -36,10 +37,10 @@ def parse_page(url_link):
     word_count = len(content.text.split())
     reading_level = textstat.flesch_kincaid_grade(content.text)
 
-    links = content.find_all('a')
+    links = content.findAll('a')
     link_count = len(links)
 
-    images = content.find_all('img')
+    images = content.findAll('img')
     image_count = len(images)
 
     page_data = {
@@ -77,7 +78,7 @@ def extract_author(header):
 
 def extract_categories(header):
     html_str = header.find(class_ = "single-post-cat")
-    categories = html_str.find_all('a')
+    categories = html_str.findAll('a')
     category_list = []
     for link in categories:
         category_name = link.contents[0].lower().strip()
@@ -91,4 +92,78 @@ def extract_date(header):
 
 
 url = "https://blog.frame.io/2019/04/23/nab2019-session-cioni/"
-print(parse_page(url))
+# print(parse_page(url))
+
+# Scrape Single Category
+articles_store = []
+def parse_category(url):
+    res = requests.get(url, headers=headers)
+    html = res.text.strip()
+    soup = BeautifulSoup(html, 'lxml')
+
+    article_cards = soup.findAll(class_ = 'post-content')
+
+    for article in article_cards:
+        title = article.find(class_ = 'post-meta-title')
+        link = title.contents[0]['href']
+        print('Parsing url: %s' %link)
+        page = parse_page(link)
+        articles_store.append(page)
+
+    next_link = find_next_link(soup)
+
+    if next_link is not None:
+        print('Parsing next page: %s' %next_link)
+        parse_category(next_link)
+
+    return None
+
+def find_next_link(soup_item):
+    bottom_nav = soup_item.find(class_ = 'navigation')
+
+    if bottom_nav == None:
+        return None
+    
+    links = bottom_nav.findAll('a')
+    next_page = links[-1]
+    
+    if next_page.contents[0] == 'Next':
+        next_link = next_page['href']
+        return next_link
+
+    return None
+
+# url = "https://blog.frame.io/category/production/"
+# parse_category(url)
+# print(len(articles_store))
+# print(articles_store[0])
+
+def parse_all_categories(url):
+    res = requests.get(url, headers=headers)
+    html = res.text.strip()
+    soup = BeautifulSoup(html, 'lxml')
+
+    # Find List of Categories
+    category_nav = soup.find(id = "menu-cat-menu")
+    category_list = category_nav.findAll('li')
+
+    all_links = []
+    # Get Link of each Category
+    for aList in category_list:
+        category_subcategory_menu = aList.find(role = 'menu')
+        if category_subcategory_menu is not None:
+            all_link = category_subcategory_menu.find('a')['href'].strip()
+            all_links.append(all_link)
+    
+    for link in all_links:
+        parse_category(link)
+
+
+url = "https://blog.frame.io/"
+parse_all_categories(url)
+print(len(articles_store))
+
+import json
+
+with open('data/articles.json', 'w') as document:
+    json.dump(articles_store, document)
