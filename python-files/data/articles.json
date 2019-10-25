@@ -1,0 +1,4929 @@
+[
+    {
+        "reading_time": 12,
+        "title": "How to Emulate the Look of Film in Any NLE",
+        "date": "October 21, 2019",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Jason Bowdach",
+        "categories": [
+            "color",
+            "nles"
+        ],
+        "word_count": 2577,
+        "reading_level": 12.5,
+        "link_count": 28,
+        "image_count": 11
+    },
+    {
+        "reading_time": 3,
+        "title": "A Quick Look at Final Cut Pro version 10.4.7",
+        "date": "October 18, 2019",
+        "month": "October",
+        "weekday": "Friday",
+        "author": "Patrick Southern",
+        "categories": [
+            "final cut pro x"
+        ],
+        "word_count": 847,
+        "reading_level": 13.9,
+        "link_count": 0,
+        "image_count": 10
+    },
+    {
+        "reading_time": 9,
+        "title": "Mixing Frame Rates in DaVinci Resolve – Part 3: Editing and Interpolation",
+        "date": "October 17, 2019",
+        "month": "October",
+        "weekday": "Thursday",
+        "author": "Dan Swierenga",
+        "categories": [
+            "davinci resolve",
+            "workflow"
+        ],
+        "word_count": 2036,
+        "reading_level": 10.8,
+        "link_count": 13,
+        "image_count": 6
+    },
+    {
+        "reading_time": 14,
+        "title": "Mixing Frame Rates in DaVinci Resolve – Part 2: Native Frame Rates",
+        "date": "October 7, 2019",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Dan Swierenga",
+        "categories": [
+            "davinci resolve",
+            "workflow"
+        ],
+        "word_count": 2969,
+        "reading_level": 10.1,
+        "link_count": 5,
+        "image_count": 2
+    },
+    {
+        "reading_time": 14,
+        "title": "Mixing Frame Rates in DaVinci Resolve – Part 1: Know Thy Frame rate",
+        "date": "September 30, 2019",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "Dan Swierenga",
+        "categories": [
+            "davinci resolve",
+            "workflow"
+        ],
+        "word_count": 2849,
+        "reading_level": 9.2,
+        "link_count": 1,
+        "image_count": 7
+    },
+    {
+        "reading_time": 24,
+        "title": "The Beginner’s Guide to Color Management with Adobe Creative Cloud Apps",
+        "date": "August 26, 2019",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Ben Bailey",
+        "categories": [
+            "color",
+            "premiere pro"
+        ],
+        "word_count": 4997,
+        "reading_level": 13.2,
+        "link_count": 45,
+        "image_count": 26
+    },
+    {
+        "reading_time": 14,
+        "title": "Want to Work in Hollywood?  Avid is the NLE to Learn.",
+        "date": "August 19, 2019",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Chris Salters",
+        "categories": [
+            "avid",
+            "career"
+        ],
+        "word_count": 2834,
+        "reading_level": 12.9,
+        "link_count": 18,
+        "image_count": 3
+    },
+    {
+        "reading_time": 5,
+        "title": "How to Use Smart Rendering with the Frame.io Premiere Pro Extension",
+        "date": "August 1, 2019",
+        "month": "August",
+        "weekday": "Thursday",
+        "author": "Brian Levin",
+        "categories": [
+            "editing",
+            "frame.io news",
+            "premiere pro"
+        ],
+        "word_count": 1227,
+        "reading_level": 10.2,
+        "link_count": 5,
+        "image_count": 12
+    },
+    {
+        "reading_time": 2,
+        "title": "The Frame.io Premiere Pro Extension Just Got a Whole Lot of Love",
+        "date": "July 29, 2019",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements",
+            "premiere pro"
+        ],
+        "word_count": 502,
+        "reading_level": 11.2,
+        "link_count": 5,
+        "image_count": 0
+    },
+    {
+        "reading_time": 10,
+        "title": "Edit First, Shoot Later: A Real-World Look at Editing Animation",
+        "date": "July 15, 2019",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Gregory Lewis",
+        "categories": [
+            "editing",
+            "workflow process"
+        ],
+        "word_count": 2156,
+        "reading_level": 11.9,
+        "link_count": 1,
+        "image_count": 6
+    },
+    {
+        "reading_time": 8,
+        "title": "Over 30 After Effects Shortcuts You Should Be Using (But Probably Aren’t)",
+        "date": "June 17, 2019",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Laurence Grayson",
+        "categories": [
+            "editing",
+            "vfx and mograph"
+        ],
+        "word_count": 1671,
+        "reading_level": 10.6,
+        "link_count": 0,
+        "image_count": 4
+    },
+    {
+        "reading_time": 12,
+        "title": "7 Presentations Every Editor Should Watch",
+        "date": "May 20, 2019",
+        "month": "May",
+        "weekday": "Monday",
+        "author": "Andrew LaSane",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 2514,
+        "reading_level": 12.1,
+        "link_count": 7,
+        "image_count": 1
+    },
+    {
+        "reading_time": 10,
+        "title": "10 Things About Final Cut Pro X That Surprised a Veteran Editor",
+        "date": "May 6, 2019",
+        "month": "May",
+        "weekday": "Monday",
+        "author": "Noah Kadner",
+        "categories": [
+            "editing",
+            "final cut pro x"
+        ],
+        "word_count": 2113,
+        "reading_level": 10.8,
+        "link_count": 13,
+        "image_count": 0
+    },
+    {
+        "reading_time": 2,
+        "title": "Building a Robust, Remote Workflow with Kyno, Frame.io, and LumaForge",
+        "date": "April 26, 2019",
+        "month": "April",
+        "weekday": "Friday",
+        "author": "Ron Dawson",
+        "categories": [
+            "final cut pro x",
+            "workflow process"
+        ],
+        "word_count": 436,
+        "reading_level": 21.3,
+        "link_count": 4,
+        "image_count": 1
+    },
+    {
+        "reading_time": 2,
+        "title": "A One-Person VFX Pipeline with Stu Maschwitz [NAB 2019 Video]",
+        "date": "April 24, 2019",
+        "month": "April",
+        "weekday": "Wednesday",
+        "author": "Ron Dawson",
+        "categories": [
+            "vfx and mograph"
+        ],
+        "word_count": 506,
+        "reading_level": 17.9,
+        "link_count": 2,
+        "image_count": 1
+    },
+    {
+        "reading_time": 14,
+        "title": "First Public Demo of Frame.io in DaVinci Resolve by Alexis Van Hurkman",
+        "date": "April 22, 2019",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "davinci resolve",
+            "technology"
+        ],
+        "word_count": 2915,
+        "reading_level": 6.9,
+        "link_count": 4,
+        "image_count": 1
+    },
+    {
+        "reading_time": 2,
+        "title": "Not Just an Integration: Introducing Frame.io in DaVinci Resolve 16",
+        "date": "April 8, 2019",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements",
+            "davinci resolve"
+        ],
+        "word_count": 595,
+        "reading_level": 14.6,
+        "link_count": 5,
+        "image_count": 2
+    },
+    {
+        "reading_time": 18,
+        "title": "The Beginner’s Guide to Conforming with DaVinci Resolve",
+        "date": "March 29, 2019",
+        "month": "March",
+        "weekday": "Friday",
+        "author": "Dan Swierenga",
+        "categories": [
+            "conform",
+            "davinci resolve"
+        ],
+        "word_count": 3699,
+        "reading_level": 10.3,
+        "link_count": 7,
+        "image_count": 13
+    },
+    {
+        "reading_time": 9,
+        "title": "The Premiere Pro Editor’s Guide to Using the Essential Graphics Panel",
+        "date": "March 11, 2019",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Chris Salters",
+        "categories": [
+            "editing",
+            "premiere pro"
+        ],
+        "word_count": 1865,
+        "reading_level": 13.4,
+        "link_count": 9,
+        "image_count": 10
+    },
+    {
+        "reading_time": 15,
+        "title": "The Grammar of Storytelling: Narrative Editing with Andy Weisblum, ACE",
+        "date": "February 28, 2019",
+        "month": "February",
+        "weekday": "Thursday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "editing",
+            "storytelling"
+        ],
+        "word_count": 2942,
+        "reading_level": 16.7,
+        "link_count": 9,
+        "image_count": 5
+    },
+    {
+        "reading_time": 13,
+        "title": "Editing Action: 5 Tips to Keep the Audience on Edge and Engaged",
+        "date": "January 31, 2019",
+        "month": "January",
+        "weekday": "Thursday",
+        "author": "Alexander Huls",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 2681,
+        "reading_level": 13.3,
+        "link_count": 2,
+        "image_count": 10
+    },
+    {
+        "reading_time": 20,
+        "title": "How to Remain Sane While Cutting the Mundane",
+        "date": "December 3, 2018",
+        "month": "December",
+        "weekday": "Monday",
+        "author": "Reuben Evans",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 4188,
+        "reading_level": 10.9,
+        "link_count": 8,
+        "image_count": 12
+    },
+    {
+        "reading_time": 29,
+        "title": "Be More Creative, Efficient, and Profitable with Adobe MOGRTs",
+        "date": "November 26, 2018",
+        "month": "November",
+        "weekday": "Monday",
+        "author": "Jarle Leirpoll",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 5729,
+        "reading_level": 11.1,
+        "link_count": 6,
+        "image_count": 40
+    },
+    {
+        "reading_time": 2,
+        "title": "Introducing Frame.io in Final Cut Pro X",
+        "date": "November 15, 2018",
+        "month": "November",
+        "weekday": "Thursday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements",
+            "final cut pro x"
+        ],
+        "word_count": 511,
+        "reading_level": 14.6,
+        "link_count": 3,
+        "image_count": 2
+    },
+    {
+        "reading_time": 20,
+        "title": "Clean Up Your Timeline with Browser-Based Editing in Final Cut Pro X",
+        "date": "November 5, 2018",
+        "month": "November",
+        "weekday": "Monday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "editing",
+            "final cut pro x"
+        ],
+        "word_count": 4093,
+        "reading_level": 12.4,
+        "link_count": 15,
+        "image_count": 26
+    },
+    {
+        "reading_time": 15,
+        "title": "Edit At The Speed of Thought With FCP X Shortcuts",
+        "date": "September 17, 2018",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "Reuben Evans",
+        "categories": [
+            "editing",
+            "final cut pro x"
+        ],
+        "word_count": 3091,
+        "reading_level": 11.3,
+        "link_count": 48,
+        "image_count": 27
+    },
+    {
+        "reading_time": 17,
+        "title": "Design for the Edges: Video for the Blind and Deaf",
+        "date": "September 4, 2018",
+        "month": "September",
+        "weekday": "Tuesday",
+        "author": "Katie Hinsen",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 3411,
+        "reading_level": 11.7,
+        "link_count": 8,
+        "image_count": 7
+    },
+    {
+        "reading_time": 25,
+        "title": "A Deep Dive Into the Hidden Audio Tools of FCP X",
+        "date": "August 27, 2018",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Ryan Charles",
+        "categories": [
+            "editing",
+            "final cut pro x"
+        ],
+        "word_count": 5025,
+        "reading_level": 13.4,
+        "link_count": 21,
+        "image_count": 40
+    },
+    {
+        "reading_time": 14,
+        "title": "Turn Boring into Brilliant: Tips for Editing with Little or No Coverage",
+        "date": "July 23, 2018",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Richard Kronenberg",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 2817,
+        "reading_level": 9.2,
+        "link_count": 4,
+        "image_count": 6
+    },
+    {
+        "reading_time": 15,
+        "title": "Everything You Need to Know About ADR (and Didn’t Know to Ask)",
+        "date": "June 11, 2018",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Jeff Hinton",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 3017,
+        "reading_level": 12.3,
+        "link_count": 4,
+        "image_count": 5
+    },
+    {
+        "reading_time": 54,
+        "title": "The Complete Guide to Premiere Pro Color Correction",
+        "date": "May 21, 2018",
+        "month": "May",
+        "weekday": "Monday",
+        "author": "Jarle Leirpoll",
+        "categories": [
+            "color",
+            "premiere pro"
+        ],
+        "word_count": 10309,
+        "reading_level": 8.1,
+        "link_count": 29,
+        "image_count": 99
+    },
+    {
+        "reading_time": 16,
+        "title": "Best Practices for Batch Syncing Audio in Adobe Premiere",
+        "date": "May 14, 2018",
+        "month": "May",
+        "weekday": "Monday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "post-production",
+            "premiere pro"
+        ],
+        "word_count": 3278,
+        "reading_level": 11.1,
+        "link_count": 6,
+        "image_count": 17
+    },
+    {
+        "reading_time": 19,
+        "title": "Complete Guide to RED Workflows: Premiere, FCP X and Resolve",
+        "date": "April 30, 2018",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "final cut pro x",
+            "premiere pro",
+            "workflow process"
+        ],
+        "word_count": 3936,
+        "reading_level": 13.8,
+        "link_count": 16,
+        "image_count": 20
+    },
+    {
+        "reading_time": 14,
+        "title": "Mastering an Arri Workflow in Adobe Premiere Pro",
+        "date": "April 2, 2018",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Zach Prichard",
+        "categories": [
+            "premiere pro",
+            "workflow process"
+        ],
+        "word_count": 2950,
+        "reading_level": 11.3,
+        "link_count": 6,
+        "image_count": 12
+    },
+    {
+        "reading_time": 20,
+        "title": "Editing Insights and Analysis of Six Masterpieces",
+        "date": "March 12, 2018",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Alexander Huls",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 4111,
+        "reading_level": 11,
+        "link_count": 11,
+        "image_count": 15
+    },
+    {
+        "reading_time": 13,
+        "title": "6 Troubleshooting Tips For Avid Media Composer Errors",
+        "date": "February 19, 2018",
+        "month": "February",
+        "weekday": "Monday",
+        "author": "Josh Short",
+        "categories": [
+            "avid",
+            "editing"
+        ],
+        "word_count": 2696,
+        "reading_level": 7.4,
+        "link_count": 3,
+        "image_count": 10
+    },
+    {
+        "reading_time": 9,
+        "title": "Power Up Your Graphics With Animated Masks in After Effects",
+        "date": "February 12, 2018",
+        "month": "February",
+        "weekday": "Monday",
+        "author": "Jason Boone",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 1993,
+        "reading_level": 9.5,
+        "link_count": 1,
+        "image_count": 21
+    },
+    {
+        "reading_time": 11,
+        "title": "Tips for Discovering, Developing and Enhancing Your Editorial Style",
+        "date": "February 7, 2018",
+        "month": "February",
+        "weekday": "Wednesday",
+        "author": "Misha Tenenbaum",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 2425,
+        "reading_level": 13,
+        "link_count": 9,
+        "image_count": 6
+    },
+    {
+        "reading_time": 14,
+        "title": "Edit Faster and More Efficiently with FCP X’s Metadata",
+        "date": "January 31, 2018",
+        "month": "January",
+        "weekday": "Wednesday",
+        "author": "Reuben Evans",
+        "categories": [
+            "editing",
+            "final cut pro x"
+        ],
+        "word_count": 2991,
+        "reading_level": 10.2,
+        "link_count": 12,
+        "image_count": 23
+    },
+    {
+        "reading_time": 11,
+        "title": "Perfect Your Dialogue Scenes with the “Fincher Effect”",
+        "date": "January 26, 2018",
+        "month": "January",
+        "weekday": "Friday",
+        "author": "Jason Boone",
+        "categories": [
+            "directing",
+            "editing"
+        ],
+        "word_count": 2236,
+        "reading_level": 9.9,
+        "link_count": 3,
+        "image_count": 9
+    },
+    {
+        "reading_time": 11,
+        "title": "These Premiere Pro Audio Tools Will Make You A Mix Master",
+        "date": "January 22, 2018",
+        "month": "January",
+        "weekday": "Monday",
+        "author": "Jason Boone",
+        "categories": [
+            "premiere pro",
+            "sound"
+        ],
+        "word_count": 2274,
+        "reading_level": 11.1,
+        "link_count": 1,
+        "image_count": 21
+    },
+    {
+        "reading_time": 18,
+        "title": "FCPX 10.4’s Color Grading Tools Are a Game Changer",
+        "date": "January 10, 2018",
+        "month": "January",
+        "weekday": "Wednesday",
+        "author": "Nick Harauz",
+        "categories": [
+            "color",
+            "final cut pro x"
+        ],
+        "word_count": 3721,
+        "reading_level": 11,
+        "link_count": 2,
+        "image_count": 46
+    },
+    {
+        "reading_time": 10,
+        "title": "4 Ways to Take Your Editing to the Next Level with After Effects",
+        "date": "January 8, 2018",
+        "month": "January",
+        "weekday": "Monday",
+        "author": "Jason Boone",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 2125,
+        "reading_level": 12.4,
+        "link_count": 9,
+        "image_count": 15
+    },
+    {
+        "reading_time": 11,
+        "title": "The 11 Biggest Backup Mistakes That Editors Make",
+        "date": "January 3, 2018",
+        "month": "January",
+        "weekday": "Wednesday",
+        "author": "David Kong",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 2375,
+        "reading_level": 9,
+        "link_count": 4,
+        "image_count": 4
+    },
+    {
+        "reading_time": 5,
+        "title": "Behind the Scenes: Making a Graphics Package for Nickelodeon",
+        "date": "December 13, 2017",
+        "month": "December",
+        "weekday": "Wednesday",
+        "author": "Clara Lehmann",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 1054,
+        "reading_level": 11.9,
+        "link_count": 5,
+        "image_count": 14
+    },
+    {
+        "reading_time": 13,
+        "title": "How to Make Lower Third Titles That Don’t Suck",
+        "date": "December 4, 2017",
+        "month": "December",
+        "weekday": "Monday",
+        "author": "Jason Boone",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 2668,
+        "reading_level": 10.2,
+        "link_count": 7,
+        "image_count": 19
+    },
+    {
+        "reading_time": 12,
+        "title": "The Secret Power of FCPX Roles And A Trackless Future",
+        "date": "November 30, 2017",
+        "month": "November",
+        "weekday": "Thursday",
+        "author": "Reuben Evans",
+        "categories": [
+            "editing",
+            "final cut pro x"
+        ],
+        "word_count": 2486,
+        "reading_level": 11.1,
+        "link_count": 10,
+        "image_count": 19
+    },
+    {
+        "reading_time": 17,
+        "title": "How to Avoid Timeline Chaos in Avid and Premiere With Sync Locks",
+        "date": "November 28, 2017",
+        "month": "November",
+        "weekday": "Tuesday",
+        "author": "Richard Starkey",
+        "categories": [
+            "avid",
+            "post-production",
+            "premiere pro"
+        ],
+        "word_count": 3518,
+        "reading_level": 10.8,
+        "link_count": 3,
+        "image_count": 34
+    },
+    {
+        "reading_time": 12,
+        "title": "9 Things You Didn’t Know You Could Do in Adobe Media Encoder",
+        "date": "November 22, 2017",
+        "month": "November",
+        "weekday": "Wednesday",
+        "author": "Jason Boone",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 2537,
+        "reading_level": 10.8,
+        "link_count": 3,
+        "image_count": 24
+    },
+    {
+        "reading_time": 8,
+        "title": "How Templates Can Actually Enhance Your Creativity",
+        "date": "November 20, 2017",
+        "month": "November",
+        "weekday": "Monday",
+        "author": "Kris Ramsey",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 1675,
+        "reading_level": 11,
+        "link_count": 2,
+        "image_count": 11
+    },
+    {
+        "reading_time": 11,
+        "title": "The Beginner’s Guide to Working in 3D Space in Adobe After Effects",
+        "date": "November 15, 2017",
+        "month": "November",
+        "weekday": "Wednesday",
+        "author": "Jason Boone",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 2244,
+        "reading_level": 10.3,
+        "link_count": 1,
+        "image_count": 30
+    },
+    {
+        "reading_time": 9,
+        "title": "The 9 Most Common Crashes in Premiere Pro, and How to Fix Them",
+        "date": "November 13, 2017",
+        "month": "November",
+        "weekday": "Monday",
+        "author": "Jon Collins",
+        "categories": [
+            "post-production",
+            "premiere pro"
+        ],
+        "word_count": 1858,
+        "reading_level": 9.4,
+        "link_count": 6,
+        "image_count": 9
+    },
+    {
+        "reading_time": 11,
+        "title": "A Quick Way to Make Any Music Track Fit Your Video",
+        "date": "November 8, 2017",
+        "month": "November",
+        "weekday": "Wednesday",
+        "author": "Ben Haslup",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 2198,
+        "reading_level": 10.2,
+        "link_count": 1,
+        "image_count": 24
+    },
+    {
+        "reading_time": 8,
+        "title": "The Simple Explanation of Blend Modes We’ve All Been Waiting For",
+        "date": "November 1, 2017",
+        "month": "November",
+        "weekday": "Wednesday",
+        "author": "Gregory Lewis",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 1759,
+        "reading_level": 11.7,
+        "link_count": 2,
+        "image_count": 9
+    },
+    {
+        "reading_time": 20,
+        "title": "The Pros and Cons of Cutting a Film in DaVinci Resolve",
+        "date": "October 30, 2017",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "davinci resolve",
+            "editing"
+        ],
+        "word_count": 4096,
+        "reading_level": 11.2,
+        "link_count": 6,
+        "image_count": 30
+    },
+    {
+        "reading_time": 16,
+        "title": "Use This Technique From Reality TV to Heighten Drama In Your Edit",
+        "date": "October 25, 2017",
+        "month": "October",
+        "weekday": "Wednesday",
+        "author": "Michael Chaskes",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 3168,
+        "reading_level": 34.1,
+        "link_count": 1,
+        "image_count": 18
+    },
+    {
+        "reading_time": 9,
+        "title": "7 Prep Mistakes To Avoid When Delivering to a Post House",
+        "date": "October 23, 2017",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Jeanna French",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 1899,
+        "reading_level": 13.7,
+        "link_count": 1,
+        "image_count": 7
+    },
+    {
+        "reading_time": 12,
+        "title": "How The Magnetic Timeline Keeps You Focused on The Story",
+        "date": "October 16, 2017",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Reuben Evans",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 2461,
+        "reading_level": 11.1,
+        "link_count": 2,
+        "image_count": 15
+    },
+    {
+        "reading_time": 10,
+        "title": "A Faster, More Efficient Way to Work with Audio in Premiere",
+        "date": "October 11, 2017",
+        "month": "October",
+        "weekday": "Wednesday",
+        "author": "Brian Levin",
+        "categories": [
+            "post-production",
+            "premiere pro"
+        ],
+        "word_count": 2154,
+        "reading_level": 13.7,
+        "link_count": 0,
+        "image_count": 10
+    },
+    {
+        "reading_time": 10,
+        "title": "Prepping Horizontal, Square and Vertical Video for Social Media",
+        "date": "October 9, 2017",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Joe Hood",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 2081,
+        "reading_level": 12.7,
+        "link_count": 11,
+        "image_count": 11
+    },
+    {
+        "reading_time": 8,
+        "title": "Turbo Charge Your FCP X Workflow with DaVinci Resolve",
+        "date": "October 4, 2017",
+        "month": "October",
+        "weekday": "Wednesday",
+        "author": "Ryan Charles",
+        "categories": [
+            "conform",
+            "davinci resolve",
+            "final cut pro x",
+            "workflow process"
+        ],
+        "word_count": 1610,
+        "reading_level": 16.2,
+        "link_count": 4,
+        "image_count": 10
+    },
+    {
+        "reading_time": 17,
+        "title": "Speed up Your Edit with Stringouts and Keyboard Maestro",
+        "date": "October 2, 2017",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Richard Starkey",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 3419,
+        "reading_level": 10.2,
+        "link_count": 2,
+        "image_count": 15
+    },
+    {
+        "reading_time": 20,
+        "title": "If You Gave Up on FCP X, It’s Time For a Second Look",
+        "date": "September 13, 2017",
+        "month": "September",
+        "weekday": "Wednesday",
+        "author": "Nick Harauz",
+        "categories": [
+            "editing",
+            "final cut pro x"
+        ],
+        "word_count": 4099,
+        "reading_level": 9.2,
+        "link_count": 24,
+        "image_count": 28
+    },
+    {
+        "reading_time": 10,
+        "title": "4 Tricks to Make Premiere Pro Exports Faster [Video]",
+        "date": "September 11, 2017",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "David Kong",
+        "categories": [
+            "editing",
+            "premiere pro"
+        ],
+        "word_count": 2076,
+        "reading_level": 11.1,
+        "link_count": 11,
+        "image_count": 11
+    },
+    {
+        "reading_time": 15,
+        "title": "Why DaVinci Resolve May Be the Single Most Powerful Tool in Post",
+        "date": "September 6, 2017",
+        "month": "September",
+        "weekday": "Wednesday",
+        "author": "Seth Goldin",
+        "categories": [
+            "davinci resolve",
+            "post-production"
+        ],
+        "word_count": 3205,
+        "reading_level": 15.9,
+        "link_count": 54,
+        "image_count": 13
+    },
+    {
+        "reading_time": 8,
+        "title": "4 Editing Insights from Laughter, Love, and Loneliness",
+        "date": "August 23, 2017",
+        "month": "August",
+        "weekday": "Wednesday",
+        "author": "Yuri Baranovsky",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 1696,
+        "reading_level": 10.6,
+        "link_count": 1,
+        "image_count": 5
+    },
+    {
+        "reading_time": 15,
+        "title": "HBO’s The Defiant Ones and the Trend of Editor As Writer",
+        "date": "August 21, 2017",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "behind the scenes",
+            "editing",
+            "interviews"
+        ],
+        "word_count": 3032,
+        "reading_level": 10,
+        "link_count": 0,
+        "image_count": 19
+    },
+    {
+        "reading_time": 13,
+        "title": "5 Essential Strategies to Cut the Fat and Tighten Your Edit",
+        "date": "July 24, 2017",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 2710,
+        "reading_level": 10.2,
+        "link_count": 7,
+        "image_count": 10
+    },
+    {
+        "reading_time": 21,
+        "title": "Timecode and Frame Rates: Everything You Need to Know",
+        "date": "July 17, 2017",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Hilda Saffari",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 4309,
+        "reading_level": 11,
+        "link_count": 0,
+        "image_count": 10
+    },
+    {
+        "reading_time": 8,
+        "title": "Six Tips for a Successful Test Screening",
+        "date": "July 6, 2017",
+        "month": "July",
+        "weekday": "Thursday",
+        "author": "Yuri Baranovsky",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 1726,
+        "reading_level": 8.2,
+        "link_count": 1,
+        "image_count": 7
+    },
+    {
+        "reading_time": 15,
+        "title": "Oscar-Winning Hacksaw Ridge Editor Tells Us His Editing Secrets",
+        "date": "June 26, 2017",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 3004,
+        "reading_level": 8.7,
+        "link_count": 1,
+        "image_count": 7
+    },
+    {
+        "reading_time": 8,
+        "title": "The 3 Principles Behind a Story-Driven PBS Documentary",
+        "date": "June 21, 2017",
+        "month": "June",
+        "weekday": "Wednesday",
+        "author": "Jonny Elwyn",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 1798,
+        "reading_level": 10.7,
+        "link_count": 3,
+        "image_count": 5
+    },
+    {
+        "reading_time": 9,
+        "title": "Finding the Flow: A Musical Approach to Cutting Documentaries",
+        "date": "June 19, 2017",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 1948,
+        "reading_level": 15.4,
+        "link_count": 1,
+        "image_count": 7
+    },
+    {
+        "reading_time": 12,
+        "title": "Working with Proxy Media in Avid",
+        "date": "June 14, 2017",
+        "month": "June",
+        "weekday": "Wednesday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "avid",
+            "editing"
+        ],
+        "word_count": 2393,
+        "reading_level": 14.1,
+        "link_count": 9,
+        "image_count": 26
+    },
+    {
+        "reading_time": 7,
+        "title": "Jump from Assistant to Lead Editor, from the Co-editor of Dr. Strange",
+        "date": "June 12, 2017",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Scott Strandberg",
+        "categories": [
+            "career",
+            "editing"
+        ],
+        "word_count": 1615,
+        "reading_level": 15.1,
+        "link_count": 2,
+        "image_count": 4
+    },
+    {
+        "reading_time": 15,
+        "title": "Better Call Saul Editor Chris McCaleb Welcomes Mistakes",
+        "date": "June 7, 2017",
+        "month": "June",
+        "weekday": "Wednesday",
+        "author": "Yuri Baranovsky",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 3079,
+        "reading_level": 8.5,
+        "link_count": 1,
+        "image_count": 9
+    },
+    {
+        "reading_time": 8,
+        "title": "FRONTLINE Documentary Editor Steve Audette on Engaging Your Audience",
+        "date": "June 2, 2017",
+        "month": "June",
+        "weekday": "Friday",
+        "author": "Jonny Elwyn",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 1782,
+        "reading_level": 14.7,
+        "link_count": 5,
+        "image_count": 9
+    },
+    {
+        "reading_time": 8,
+        "title": "How the Doctor Strange Co-Editors Built a Team Dynamic",
+        "date": "May 25, 2017",
+        "month": "May",
+        "weekday": "Thursday",
+        "author": "Scott Strandberg",
+        "categories": [
+            "career",
+            "editing"
+        ],
+        "word_count": 1781,
+        "reading_level": 16.2,
+        "link_count": 0,
+        "image_count": 5
+    },
+    {
+        "reading_time": 14,
+        "title": "Why DaVinci Resolve is the Ultimate (Free) Tool to Sync Clips",
+        "date": "May 15, 2017",
+        "month": "May",
+        "weekday": "Monday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "davinci resolve",
+            "workflow process"
+        ],
+        "word_count": 2958,
+        "reading_level": 11.5,
+        "link_count": 3,
+        "image_count": 24
+    },
+    {
+        "reading_time": 28,
+        "title": "The Ultimate Guide to FCP X Proxies: Make Final Cut Faster",
+        "date": "May 11, 2017",
+        "month": "May",
+        "weekday": "Thursday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "conform",
+            "final cut pro x"
+        ],
+        "word_count": 5547,
+        "reading_level": 12.7,
+        "link_count": 9,
+        "image_count": 40
+    },
+    {
+        "reading_time": 19,
+        "title": "How To Edit With Silence, From TV Editor Chris McCaleb",
+        "date": "May 8, 2017",
+        "month": "May",
+        "weekday": "Monday",
+        "author": "Yuri Baranovsky",
+        "categories": [
+            "editing"
+        ],
+        "word_count": 3853,
+        "reading_level": 8.6,
+        "link_count": 1,
+        "image_count": 13
+    },
+    {
+        "reading_time": 10,
+        "title": "Why SNL Editor Adam Epstein Recommends Setting Insane Deadlines",
+        "date": "March 27, 2017",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Scott Strandberg",
+        "categories": [
+            "behind the scenes",
+            "editing",
+            "interviews"
+        ],
+        "word_count": 2101,
+        "reading_level": 14.2,
+        "link_count": 1,
+        "image_count": 0
+    },
+    {
+        "reading_time": 24,
+        "title": "3 Ways to Work with Proxies in Premiere Pro",
+        "date": "March 20, 2017",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "final cut pro x",
+            "premiere pro",
+            "workflow process"
+        ],
+        "word_count": 4805,
+        "reading_level": 13.3,
+        "link_count": 19,
+        "image_count": 33
+    },
+    {
+        "reading_time": 16,
+        "title": "The Editor’s Guide to Skin Tones in FCP X",
+        "date": "March 13, 2017",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Jes Zurell",
+        "categories": [
+            "color",
+            "final cut pro x"
+        ],
+        "word_count": 3270,
+        "reading_level": 10.4,
+        "link_count": 4,
+        "image_count": 17
+    },
+    {
+        "reading_time": 5,
+        "title": "Plan ahead to easily sell a screen replacement shot",
+        "date": "November 17, 2016",
+        "month": "November",
+        "weekday": "Thursday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 1101,
+        "reading_level": 9.5,
+        "link_count": 1,
+        "image_count": 0
+    },
+    {
+        "reading_time": 7,
+        "title": "How Team Projects changes the way you work",
+        "date": "November 11, 2016",
+        "month": "November",
+        "weekday": "Friday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 1583,
+        "reading_level": 9.9,
+        "link_count": 4,
+        "image_count": 2
+    },
+    {
+        "reading_time": 11,
+        "title": "Make the most of FCP X: Log interviews better (part 2)",
+        "date": "November 2, 2016",
+        "month": "November",
+        "weekday": "Wednesday",
+        "author": "T Payton",
+        "categories": [
+            "final cut pro x",
+            "post-production"
+        ],
+        "word_count": 2357,
+        "reading_level": 10.1,
+        "link_count": 4,
+        "image_count": 10
+    },
+    {
+        "reading_time": 8,
+        "title": "Make the most of FCP X: Log interviews better (part 1)",
+        "date": "October 18, 2016",
+        "month": "October",
+        "weekday": "Tuesday",
+        "author": "T Payton",
+        "categories": [
+            "editing",
+            "final cut pro x"
+        ],
+        "word_count": 1783,
+        "reading_level": 10.9,
+        "link_count": 4,
+        "image_count": 10
+    },
+    {
+        "reading_time": 13,
+        "title": "Make the most of FCP X:  6 ways to maximize Multicam",
+        "date": "October 6, 2016",
+        "month": "October",
+        "weekday": "Thursday",
+        "author": "T Payton",
+        "categories": [
+            "final cut pro x",
+            "post-production"
+        ],
+        "word_count": 2713,
+        "reading_level": 11.7,
+        "link_count": 10,
+        "image_count": 18
+    },
+    {
+        "reading_time": 5,
+        "title": "How to set your shot on fire without getting burned",
+        "date": "September 29, 2016",
+        "month": "September",
+        "weekday": "Thursday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "vfx and mograph"
+        ],
+        "word_count": 1155,
+        "reading_level": 10,
+        "link_count": 1,
+        "image_count": 4
+    },
+    {
+        "reading_time": 14,
+        "title": "5 ways to make Final Cut Pro X faster",
+        "date": "September 21, 2016",
+        "month": "September",
+        "weekday": "Wednesday",
+        "author": "T Payton",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 2938,
+        "reading_level": 11.8,
+        "link_count": 13,
+        "image_count": 11
+    },
+    {
+        "reading_time": 11,
+        "title": "How to recognize and fix 11 common problems in Final Cut Pro X",
+        "date": "September 13, 2016",
+        "month": "September",
+        "weekday": "Tuesday",
+        "author": "T Payton",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 2320,
+        "reading_level": 9.6,
+        "link_count": 6,
+        "image_count": 7
+    },
+    {
+        "reading_time": 7,
+        "title": "What was the last Best Picture not to use visual effects?",
+        "date": "August 16, 2016",
+        "month": "August",
+        "weekday": "Tuesday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 1475,
+        "reading_level": 9.7,
+        "link_count": 19,
+        "image_count": 6
+    },
+    {
+        "reading_time": 6,
+        "title": "12 steps to make After Effects faster",
+        "date": "August 5, 2016",
+        "month": "August",
+        "weekday": "Friday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "post-production"
+        ],
+        "word_count": 1385,
+        "reading_level": 9.8,
+        "link_count": 3,
+        "image_count": 12
+    },
+    {
+        "reading_time": 4,
+        "title": "Introducing Frame.io for Adobe Premiere Pro CC",
+        "date": "April 11, 2016",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements",
+            "premiere pro"
+        ],
+        "word_count": 990,
+        "reading_level": 14.4,
+        "link_count": 7,
+        "image_count": 2
+    },
+    {
+        "reading_time": 14,
+        "title": "Want to Work in Hollywood?  Avid is the NLE to Learn.",
+        "date": "August 19, 2019",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Chris Salters",
+        "categories": [
+            "avid",
+            "career"
+        ],
+        "word_count": 2834,
+        "reading_level": 12.9,
+        "link_count": 18,
+        "image_count": 3
+    },
+    {
+        "reading_time": 13,
+        "title": "6 Troubleshooting Tips For Avid Media Composer Errors",
+        "date": "February 19, 2018",
+        "month": "February",
+        "weekday": "Monday",
+        "author": "Josh Short",
+        "categories": [
+            "avid",
+            "editing"
+        ],
+        "word_count": 2696,
+        "reading_level": 7.4,
+        "link_count": 3,
+        "image_count": 10
+    },
+    {
+        "reading_time": 17,
+        "title": "How to Avoid Timeline Chaos in Avid and Premiere With Sync Locks",
+        "date": "November 28, 2017",
+        "month": "November",
+        "weekday": "Tuesday",
+        "author": "Richard Starkey",
+        "categories": [
+            "avid",
+            "post-production",
+            "premiere pro"
+        ],
+        "word_count": 3518,
+        "reading_level": 10.8,
+        "link_count": 3,
+        "image_count": 34
+    },
+    {
+        "reading_time": 12,
+        "title": "Working with Proxy Media in Avid",
+        "date": "June 14, 2017",
+        "month": "June",
+        "weekday": "Wednesday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "avid",
+            "editing"
+        ],
+        "word_count": 2393,
+        "reading_level": 14.1,
+        "link_count": 9,
+        "image_count": 26
+    },
+    {
+        "reading_time": 12,
+        "title": "How to Emulate the Look of Film in Any NLE",
+        "date": "October 21, 2019",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Jason Bowdach",
+        "categories": [
+            "color",
+            "nles"
+        ],
+        "word_count": 2577,
+        "reading_level": 12.5,
+        "link_count": 28,
+        "image_count": 11
+    },
+    {
+        "reading_time": 9,
+        "title": "Mixing Frame Rates in DaVinci Resolve – Part 3: Editing and Interpolation",
+        "date": "October 17, 2019",
+        "month": "October",
+        "weekday": "Thursday",
+        "author": "Dan Swierenga",
+        "categories": [
+            "davinci resolve",
+            "workflow"
+        ],
+        "word_count": 2036,
+        "reading_level": 10.8,
+        "link_count": 13,
+        "image_count": 6
+    },
+    {
+        "reading_time": 12,
+        "title": "Grading for Mixed Delivery: Cinema, Home, and Every Screen in Between",
+        "date": "October 14, 2019",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Cullen Kelly",
+        "categories": [
+            "color"
+        ],
+        "word_count": 2434,
+        "reading_level": 12.5,
+        "link_count": 7,
+        "image_count": 6
+    },
+    {
+        "reading_time": 14,
+        "title": "Mixing Frame Rates in DaVinci Resolve – Part 2: Native Frame Rates",
+        "date": "October 7, 2019",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Dan Swierenga",
+        "categories": [
+            "davinci resolve",
+            "workflow"
+        ],
+        "word_count": 2969,
+        "reading_level": 10.1,
+        "link_count": 5,
+        "image_count": 2
+    },
+    {
+        "reading_time": 14,
+        "title": "Mixing Frame Rates in DaVinci Resolve – Part 1: Know Thy Frame rate",
+        "date": "September 30, 2019",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "Dan Swierenga",
+        "categories": [
+            "davinci resolve",
+            "workflow"
+        ],
+        "word_count": 2849,
+        "reading_level": 9.2,
+        "link_count": 1,
+        "image_count": 7
+    },
+    {
+        "reading_time": 16,
+        "title": "A Beginner’s Guide to Shooting Raw",
+        "date": "September 23, 2019",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "Ben Bailey",
+        "categories": [
+            "cinematography",
+            "workflow process"
+        ],
+        "word_count": 3308,
+        "reading_level": 11.9,
+        "link_count": 34,
+        "image_count": 3
+    },
+    {
+        "reading_time": 15,
+        "title": "Why Every Editor, Colorist, and VFX Artist Needs to Understand ACES",
+        "date": "September 9, 2019",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "Ben Bailey",
+        "categories": [
+            "color",
+            "technology"
+        ],
+        "word_count": 3044,
+        "reading_level": 13.4,
+        "link_count": 15,
+        "image_count": 7
+    },
+    {
+        "reading_time": 24,
+        "title": "The Beginner’s Guide to Color Management with Adobe Creative Cloud Apps",
+        "date": "August 26, 2019",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Ben Bailey",
+        "categories": [
+            "color",
+            "premiere pro"
+        ],
+        "word_count": 4997,
+        "reading_level": 13.2,
+        "link_count": 45,
+        "image_count": 26
+    },
+    {
+        "reading_time": 12,
+        "title": "The Essential Guide to LUTs",
+        "date": "August 12, 2019",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Cullen Kelly",
+        "categories": [
+            "color"
+        ],
+        "word_count": 2448,
+        "reading_level": 12.8,
+        "link_count": 1,
+        "image_count": 10
+    },
+    {
+        "reading_time": 7,
+        "title": "From Dailies to Delivery: How Pixcom Reinvented their Workflow with Frame.io",
+        "date": "August 5, 2019",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "made in frame",
+            "workflow process"
+        ],
+        "word_count": 1379,
+        "reading_level": 15.7,
+        "link_count": 6,
+        "image_count": 6
+    },
+    {
+        "reading_time": 19,
+        "title": "The Beginner’s Guide to Building a Color Grading Suite",
+        "date": "July 22, 2019",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Ben Bailey",
+        "categories": [
+            "color"
+        ],
+        "word_count": 3903,
+        "reading_level": 9.9,
+        "link_count": 16,
+        "image_count": 6
+    },
+    {
+        "reading_time": 10,
+        "title": "Edit First, Shoot Later: A Real-World Look at Editing Animation",
+        "date": "July 15, 2019",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Gregory Lewis",
+        "categories": [
+            "editing",
+            "workflow process"
+        ],
+        "word_count": 2156,
+        "reading_level": 11.9,
+        "link_count": 1,
+        "image_count": 6
+    },
+    {
+        "reading_time": 2,
+        "title": "Building a Robust, Remote Workflow with Kyno, Frame.io, and LumaForge",
+        "date": "April 26, 2019",
+        "month": "April",
+        "weekday": "Friday",
+        "author": "Ron Dawson",
+        "categories": [
+            "final cut pro x",
+            "workflow process"
+        ],
+        "word_count": 436,
+        "reading_level": 21.3,
+        "link_count": 4,
+        "image_count": 1
+    },
+    {
+        "reading_time": 19,
+        "title": "Q&A with FilmRiot Host and Creator Ryan Connolly at NAB 2019",
+        "date": "April 25, 2019",
+        "month": "April",
+        "weekday": "Thursday",
+        "author": "Ron Dawson",
+        "categories": [
+            "workflow process"
+        ],
+        "word_count": 3985,
+        "reading_level": 9,
+        "link_count": 1,
+        "image_count": 1
+    },
+    {
+        "reading_time": 5,
+        "title": "A Fast and Flexible Remote Video Workflow for High-Resolution Media",
+        "date": "April 4, 2019",
+        "month": "April",
+        "weekday": "Thursday",
+        "author": "Patrick Southern",
+        "categories": [
+            "workflow process"
+        ],
+        "word_count": 1122,
+        "reading_level": 9.3,
+        "link_count": 5,
+        "image_count": 6
+    },
+    {
+        "reading_time": 18,
+        "title": "The Beginner’s Guide to Conforming with DaVinci Resolve",
+        "date": "March 29, 2019",
+        "month": "March",
+        "weekday": "Friday",
+        "author": "Dan Swierenga",
+        "categories": [
+            "conform",
+            "davinci resolve"
+        ],
+        "word_count": 3699,
+        "reading_level": 10.3,
+        "link_count": 7,
+        "image_count": 13
+    },
+    {
+        "reading_time": 13,
+        "title": "EFILM Colorist Mitch Paulson Demystifies the Digital Intermediate Process",
+        "date": "March 4, 2019",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "color"
+        ],
+        "word_count": 2659,
+        "reading_level": 15.7,
+        "link_count": 2,
+        "image_count": 11
+    },
+    {
+        "reading_time": 26,
+        "title": "Oscar Workflow Breakdown of Every Best Picture and Editing Nominee",
+        "date": "February 25, 2019",
+        "month": "February",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "workflow process"
+        ],
+        "word_count": 5211,
+        "reading_level": 12.1,
+        "link_count": 5,
+        "image_count": 31
+    },
+    {
+        "reading_time": 17,
+        "title": "8 Pitfalls to Avoid in an Offline-Online Video Workflow",
+        "date": "December 10, 2018",
+        "month": "December",
+        "weekday": "Monday",
+        "author": "Seth Goldin",
+        "categories": [
+            "conform"
+        ],
+        "word_count": 3473,
+        "reading_level": 13.7,
+        "link_count": 11,
+        "image_count": 11
+    },
+    {
+        "reading_time": 13,
+        "title": "Speed Up Your Workflow with Good File Naming Practices",
+        "date": "October 22, 2018",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Jason Boone",
+        "categories": [
+            "workflow process"
+        ],
+        "word_count": 2706,
+        "reading_level": 10.1,
+        "link_count": 2,
+        "image_count": 11
+    },
+    {
+        "reading_time": 11,
+        "title": "HEVC (H.265): What is it and Why Should You Care?",
+        "date": "September 24, 2018",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "Seth Goldin",
+        "categories": [
+            "conform",
+            "workflow"
+        ],
+        "word_count": 2349,
+        "reading_level": 10.5,
+        "link_count": 46,
+        "image_count": 4
+    },
+    {
+        "reading_time": 54,
+        "title": "The Complete Guide to Premiere Pro Color Correction",
+        "date": "May 21, 2018",
+        "month": "May",
+        "weekday": "Monday",
+        "author": "Jarle Leirpoll",
+        "categories": [
+            "color",
+            "premiere pro"
+        ],
+        "word_count": 10309,
+        "reading_level": 8.1,
+        "link_count": 29,
+        "image_count": 99
+    },
+    {
+        "reading_time": 19,
+        "title": "Complete Guide to RED Workflows: Premiere, FCP X and Resolve",
+        "date": "April 30, 2018",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "final cut pro x",
+            "premiere pro",
+            "workflow process"
+        ],
+        "word_count": 3936,
+        "reading_level": 13.8,
+        "link_count": 16,
+        "image_count": 20
+    },
+    {
+        "reading_time": 14,
+        "title": "Mastering an Arri Workflow in Adobe Premiere Pro",
+        "date": "April 2, 2018",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Zach Prichard",
+        "categories": [
+            "premiere pro",
+            "workflow process"
+        ],
+        "word_count": 2950,
+        "reading_level": 11.3,
+        "link_count": 6,
+        "image_count": 12
+    },
+    {
+        "reading_time": 23,
+        "title": "Workflow Breakdown of Every Best Picture and Best Editing Oscar Nominee",
+        "date": "March 5, 2018",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "David Kong",
+        "categories": [
+            "workflow process"
+        ],
+        "word_count": 4578,
+        "reading_level": 12,
+        "link_count": 37,
+        "image_count": 18
+    },
+    {
+        "reading_time": 14,
+        "title": "3 Real-world Examples of a Remote Dailies Workflow",
+        "date": "January 17, 2018",
+        "month": "January",
+        "weekday": "Wednesday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "workflow process"
+        ],
+        "word_count": 2980,
+        "reading_level": 12.2,
+        "link_count": 27,
+        "image_count": 7
+    },
+    {
+        "reading_time": 18,
+        "title": "FCPX 10.4’s Color Grading Tools Are a Game Changer",
+        "date": "January 10, 2018",
+        "month": "January",
+        "weekday": "Wednesday",
+        "author": "Nick Harauz",
+        "categories": [
+            "color",
+            "final cut pro x"
+        ],
+        "word_count": 3721,
+        "reading_level": 11,
+        "link_count": 2,
+        "image_count": 46
+    },
+    {
+        "reading_time": 16,
+        "title": "Advanced Curves Techniques Every Video Editor Should Know",
+        "date": "November 6, 2017",
+        "month": "November",
+        "weekday": "Monday",
+        "author": "Jarle Leirpoll",
+        "categories": [
+            "color"
+        ],
+        "word_count": 3058,
+        "reading_level": 7.3,
+        "link_count": 6,
+        "image_count": 46
+    },
+    {
+        "reading_time": 8,
+        "title": "Turbo Charge Your FCP X Workflow with DaVinci Resolve",
+        "date": "October 4, 2017",
+        "month": "October",
+        "weekday": "Wednesday",
+        "author": "Ryan Charles",
+        "categories": [
+            "conform",
+            "davinci resolve",
+            "final cut pro x",
+            "workflow process"
+        ],
+        "word_count": 1610,
+        "reading_level": 16.2,
+        "link_count": 4,
+        "image_count": 10
+    },
+    {
+        "reading_time": 14,
+        "title": "How to Use and Read the Four Primary Video Scopes",
+        "date": "September 27, 2017",
+        "month": "September",
+        "weekday": "Wednesday",
+        "author": "Jarle Leirpoll",
+        "categories": [
+            "color"
+        ],
+        "word_count": 2986,
+        "reading_level": 7.4,
+        "link_count": 1,
+        "image_count": 32
+    },
+    {
+        "reading_time": 9,
+        "title": "A Beginner’s Guide to Curves for Color Correction",
+        "date": "September 20, 2017",
+        "month": "September",
+        "weekday": "Wednesday",
+        "author": "Jason Boone",
+        "categories": [
+            "color"
+        ],
+        "word_count": 2011,
+        "reading_level": 10.5,
+        "link_count": 1,
+        "image_count": 17
+    },
+    {
+        "reading_time": 5,
+        "title": "Transcoding Footage to a Higher Bit Depth Won’t Increase Quality",
+        "date": "August 16, 2017",
+        "month": "August",
+        "weekday": "Wednesday",
+        "author": "David Kong",
+        "categories": [
+            "conform"
+        ],
+        "word_count": 1166,
+        "reading_level": 10.1,
+        "link_count": 5,
+        "image_count": 8
+    },
+    {
+        "reading_time": 9,
+        "title": "Why ProRes on Windows is Still Not a Good Option for Editors",
+        "date": "August 7, 2017",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "David Kong",
+        "categories": [
+            "conform"
+        ],
+        "word_count": 2016,
+        "reading_level": 10.1,
+        "link_count": 5,
+        "image_count": 2
+    },
+    {
+        "reading_time": 15,
+        "title": "The Missing Details of Baby Driver’s Crazy Workflow",
+        "date": "July 31, 2017",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "behind the scenes",
+            "interviews",
+            "workflow process"
+        ],
+        "word_count": 3063,
+        "reading_level": 11.7,
+        "link_count": 3,
+        "image_count": 13
+    },
+    {
+        "reading_time": 9,
+        "title": "How to Match a Film Look with Basic Color Correction Tools",
+        "date": "May 30, 2017",
+        "month": "May",
+        "weekday": "Tuesday",
+        "author": "Ron Dawson",
+        "categories": [
+            "color"
+        ],
+        "word_count": 1973,
+        "reading_level": 11,
+        "link_count": 1,
+        "image_count": 15
+    },
+    {
+        "reading_time": 14,
+        "title": "Why DaVinci Resolve is the Ultimate (Free) Tool to Sync Clips",
+        "date": "May 15, 2017",
+        "month": "May",
+        "weekday": "Monday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "davinci resolve",
+            "workflow process"
+        ],
+        "word_count": 2958,
+        "reading_level": 11.5,
+        "link_count": 3,
+        "image_count": 24
+    },
+    {
+        "reading_time": 28,
+        "title": "The Ultimate Guide to FCP X Proxies: Make Final Cut Faster",
+        "date": "May 11, 2017",
+        "month": "May",
+        "weekday": "Thursday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "conform",
+            "final cut pro x"
+        ],
+        "word_count": 5547,
+        "reading_level": 12.7,
+        "link_count": 9,
+        "image_count": 40
+    },
+    {
+        "reading_time": 24,
+        "title": "3 Ways to Work with Proxies in Premiere Pro",
+        "date": "March 20, 2017",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Sofi Marshall",
+        "categories": [
+            "final cut pro x",
+            "premiere pro",
+            "workflow process"
+        ],
+        "word_count": 4805,
+        "reading_level": 13.3,
+        "link_count": 19,
+        "image_count": 33
+    },
+    {
+        "reading_time": 16,
+        "title": "The Editor’s Guide to Skin Tones in FCP X",
+        "date": "March 13, 2017",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Jes Zurell",
+        "categories": [
+            "color",
+            "final cut pro x"
+        ],
+        "word_count": 3270,
+        "reading_level": 10.4,
+        "link_count": 4,
+        "image_count": 17
+    },
+    {
+        "reading_time": 5,
+        "title": "The Simple Formula to Calculate Video Bitrates",
+        "date": "March 6, 2017",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "David Kong",
+        "categories": [
+            "conform"
+        ],
+        "word_count": 1215,
+        "reading_level": 8.1,
+        "link_count": 3,
+        "image_count": 7
+    },
+    {
+        "reading_time": 41,
+        "title": "How to Choose the Right Codec for Every Project",
+        "date": "February 15, 2017",
+        "month": "February",
+        "weekday": "Wednesday",
+        "author": "David Kong",
+        "categories": [
+            "conform"
+        ],
+        "word_count": 8210,
+        "reading_level": 10.1,
+        "link_count": 35,
+        "image_count": 22
+    },
+    {
+        "reading_time": 2,
+        "title": "Compare 50 Intermediate Codecs on One Page",
+        "date": "February 13, 2017",
+        "month": "February",
+        "weekday": "Monday",
+        "author": "David Kong",
+        "categories": [
+            "conform"
+        ],
+        "word_count": 1168,
+        "reading_level": 28.1,
+        "link_count": 2,
+        "image_count": 0
+    },
+    {
+        "reading_time": 3,
+        "title": "The number 1 skill you can learn to become a great compositor: color matching",
+        "date": "August 25, 2016",
+        "month": "August",
+        "weekday": "Thursday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "color"
+        ],
+        "word_count": 702,
+        "reading_level": 9.9,
+        "link_count": 1,
+        "image_count": 0
+    },
+    {
+        "reading_time": 5,
+        "title": "Caviar + Loom + Frame.io = A Winning Formula for Large-scale Commercial Creation",
+        "date": "October 23, 2019",
+        "month": "October",
+        "weekday": "Wednesday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "made in frame"
+        ],
+        "word_count": 1035,
+        "reading_level": 21.2,
+        "link_count": 4,
+        "image_count": 12
+    },
+    {
+        "reading_time": 10,
+        "title": "The Editing on the Marvelous Mrs. Maisel is No Laughing Matter",
+        "date": "September 16, 2019",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "Alexander Huls",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 2205,
+        "reading_level": 14.5,
+        "link_count": 5,
+        "image_count": 7
+    },
+    {
+        "reading_time": 7,
+        "title": "From Dailies to Delivery: How Pixcom Reinvented their Workflow with Frame.io",
+        "date": "August 5, 2019",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "made in frame",
+            "workflow process"
+        ],
+        "word_count": 1379,
+        "reading_level": 15.7,
+        "link_count": 6,
+        "image_count": 6
+    },
+    {
+        "reading_time": 12,
+        "title": "How the editors of Amazon’s Homecoming helped craft a Hitchcockian thriller",
+        "date": "July 8, 2019",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Alexander Huls",
+        "categories": [
+            "interviews"
+        ],
+        "word_count": 2598,
+        "reading_level": 13.6,
+        "link_count": 5,
+        "image_count": 6
+    },
+    {
+        "reading_time": 10,
+        "title": "How GoPro Manages Large Media Workflows on a Tight Turn-around",
+        "date": "June 28, 2019",
+        "month": "June",
+        "weekday": "Friday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "made in frame"
+        ],
+        "word_count": 2234,
+        "reading_level": 15.1,
+        "link_count": 8,
+        "image_count": 12
+    },
+    {
+        "reading_time": 6,
+        "title": "How Frame.io Helps VICE Give All the F***s They Want",
+        "date": "June 10, 2019",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "frame.io enterprise",
+            "made in frame"
+        ],
+        "word_count": 1374,
+        "reading_level": 14.3,
+        "link_count": 9,
+        "image_count": 5
+    },
+    {
+        "reading_time": 6,
+        "title": "Workflows at Scale: BuzzFeed Harnesses the Power of Frame.io’s API",
+        "date": "June 3, 2019",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "frame.io enterprise",
+            "made in frame",
+            "technology"
+        ],
+        "word_count": 1254,
+        "reading_level": 17.5,
+        "link_count": 16,
+        "image_count": 5
+    },
+    {
+        "reading_time": 22,
+        "title": "Workflow Breakdown of Avengers: Endgame and Marvel’s Phase 3 Movies",
+        "date": "May 13, 2019",
+        "month": "May",
+        "weekday": "Monday",
+        "author": "Alexander Huls",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 4418,
+        "reading_level": 14.1,
+        "link_count": 10,
+        "image_count": 13
+    },
+    {
+        "reading_time": 12,
+        "title": "Shazam! How Editor Michel Aller Transformed into a Blockbuster Editor",
+        "date": "April 29, 2019",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Alexander Huls",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 2519,
+        "reading_level": 12.7,
+        "link_count": 1,
+        "image_count": 13
+    },
+    {
+        "reading_time": 13,
+        "title": "Behind the Scenes of “Captain Marvel” with Editor Debbie Berman",
+        "date": "March 28, 2019",
+        "month": "March",
+        "weekday": "Thursday",
+        "author": "Alexander Huls",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 2607,
+        "reading_level": 15,
+        "link_count": 1,
+        "image_count": 6
+    },
+    {
+        "reading_time": 14,
+        "title": "How “Us” Editor Nicholas Monsour Works with Jordan Peele",
+        "date": "March 18, 2019",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 2920,
+        "reading_level": 22,
+        "link_count": 8,
+        "image_count": 13
+    },
+    {
+        "reading_time": 10,
+        "title": "Tom Cross Rockets to New Heights Editing “First Man”",
+        "date": "February 18, 2019",
+        "month": "February",
+        "weekday": "Monday",
+        "author": "Alexander Huls",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 2126,
+        "reading_level": 19.2,
+        "link_count": 0,
+        "image_count": 12
+    },
+    {
+        "reading_time": 10,
+        "title": "Joe Walker: How the Editor of “Widows” Pulled off the Perfect Heist",
+        "date": "February 14, 2019",
+        "month": "February",
+        "weekday": "Thursday",
+        "author": "Alexander Huls",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 2070,
+        "reading_level": 18.5,
+        "link_count": 0,
+        "image_count": 15
+    },
+    {
+        "reading_time": 10,
+        "title": "A New Take on the Old West: Editing Netflix’s Ballad of Buster Scruggs",
+        "date": "February 11, 2019",
+        "month": "February",
+        "weekday": "Monday",
+        "author": "Alexander Huls",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 2222,
+        "reading_level": 15.3,
+        "link_count": 2,
+        "image_count": 13
+    },
+    {
+        "reading_time": 13,
+        "title": "Editing Roma: An Emotional Journey from Indie to Oscars",
+        "date": "February 4, 2019",
+        "month": "February",
+        "weekday": "Monday",
+        "author": "Alexander Huls",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 2752,
+        "reading_level": 16.6,
+        "link_count": 0,
+        "image_count": 13
+    },
+    {
+        "reading_time": 21,
+        "title": "It Takes a Village: The M:I-6 Editorial Crew and What They Do",
+        "date": "January 28, 2019",
+        "month": "January",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 4182,
+        "reading_level": 20.8,
+        "link_count": 5,
+        "image_count": 20
+    },
+    {
+        "reading_time": 13,
+        "title": "Made in Frame: Gizmodo Media Group’s Need for Speed",
+        "date": "December 17, 2018",
+        "month": "December",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "made in frame"
+        ],
+        "word_count": 2578,
+        "reading_level": 16.4,
+        "link_count": 1,
+        "image_count": 15
+    },
+    {
+        "reading_time": 12,
+        "title": "Made in Frame: Cinelab’s Film Workflow Merges Old Tech with New",
+        "date": "November 19, 2018",
+        "month": "November",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "made in frame"
+        ],
+        "word_count": 2408,
+        "reading_level": 15.8,
+        "link_count": 4,
+        "image_count": 16
+    },
+    {
+        "reading_time": 13,
+        "title": "On Gender and Genre: A Woman’s Experience Cutting Action Blockbusters",
+        "date": "October 1, 2018",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 2639,
+        "reading_level": 17.1,
+        "link_count": 6,
+        "image_count": 15
+    },
+    {
+        "reading_time": 15,
+        "title": "Made in Frame: Cutting the Thriller Searching in Adobe Premiere Pro",
+        "date": "September 10, 2018",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "Andy Young",
+        "categories": [
+            "made in frame"
+        ],
+        "word_count": 3064,
+        "reading_level": 15.4,
+        "link_count": 7,
+        "image_count": 30
+    },
+    {
+        "reading_time": 17,
+        "title": "The Editorial Process and Philosophy Behind Mission: Impossible – Fallout",
+        "date": "July 30, 2018",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 3582,
+        "reading_level": 13.7,
+        "link_count": 15,
+        "image_count": 23
+    },
+    {
+        "reading_time": 16,
+        "title": "Made in Frame: Film Riot and Ryan Connolly’s BALLiSTIC",
+        "date": "July 16, 2018",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "interviews",
+            "made in frame"
+        ],
+        "word_count": 3132,
+        "reading_level": 13.7,
+        "link_count": 14,
+        "image_count": 27
+    },
+    {
+        "reading_time": 14,
+        "title": "Edit like a Master Chef: Hotel Artemis’ Secret Recipe",
+        "date": "July 2, 2018",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 2824,
+        "reading_level": 18.2,
+        "link_count": 8,
+        "image_count": 27
+    },
+    {
+        "reading_time": 14,
+        "title": "Made in Frame: Hereditary",
+        "date": "June 25, 2018",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "made in frame"
+        ],
+        "word_count": 2935,
+        "reading_level": 16.5,
+        "link_count": 4,
+        "image_count": 12
+    },
+    {
+        "reading_time": 14,
+        "title": "Incredibles 2 and an Inside Look at the Secret to Pixar’s Success",
+        "date": "June 18, 2018",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Christian Leithart",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 2944,
+        "reading_level": 12.4,
+        "link_count": 2,
+        "image_count": 13
+    },
+    {
+        "reading_time": 13,
+        "title": "Made in Frame: The Conan O’Brien Show",
+        "date": "May 29, 2018",
+        "month": "May",
+        "weekday": "Tuesday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "made in frame"
+        ],
+        "word_count": 2672,
+        "reading_level": 13.7,
+        "link_count": 4,
+        "image_count": 24
+    },
+    {
+        "reading_time": 10,
+        "title": "Made In Frame: Harry Styles’ “Kiwi” Music Video",
+        "date": "May 7, 2018",
+        "month": "May",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "made in frame"
+        ],
+        "word_count": 2074,
+        "reading_level": 18,
+        "link_count": 5,
+        "image_count": 20
+    },
+    {
+        "reading_time": 13,
+        "title": "Made in Frame – New Balance “Fearlessly Independent”",
+        "date": "March 26, 2018",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Jason Boone",
+        "categories": [
+            "made in frame"
+        ],
+        "word_count": 2729,
+        "reading_level": 11.9,
+        "link_count": 15,
+        "image_count": 14
+    },
+    {
+        "reading_time": 14,
+        "title": "Made in Frame: The Oscar-Winning “Get Out”",
+        "date": "February 26, 2018",
+        "month": "February",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "made in frame"
+        ],
+        "word_count": 2948,
+        "reading_level": 11.5,
+        "link_count": 9,
+        "image_count": 22
+    },
+    {
+        "reading_time": 15,
+        "title": "HBO’s The Defiant Ones and the Trend of Editor As Writer",
+        "date": "August 21, 2017",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "behind the scenes",
+            "editing",
+            "interviews"
+        ],
+        "word_count": 3032,
+        "reading_level": 10,
+        "link_count": 0,
+        "image_count": 19
+    },
+    {
+        "reading_time": 15,
+        "title": "The Missing Details of Baby Driver’s Crazy Workflow",
+        "date": "July 31, 2017",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "behind the scenes",
+            "interviews",
+            "workflow process"
+        ],
+        "word_count": 3063,
+        "reading_level": 11.7,
+        "link_count": 3,
+        "image_count": 13
+    },
+    {
+        "reading_time": 10,
+        "title": "Why SNL Editor Adam Epstein Recommends Setting Insane Deadlines",
+        "date": "March 27, 2017",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Scott Strandberg",
+        "categories": [
+            "behind the scenes",
+            "editing",
+            "interviews"
+        ],
+        "word_count": 2101,
+        "reading_level": 14.2,
+        "link_count": 1,
+        "image_count": 0
+    },
+    {
+        "reading_time": 12,
+        "title": "How Frame.io helped make Brown Nation a Netflix hit",
+        "date": "December 8, 2016",
+        "month": "December",
+        "weekday": "Thursday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "behind the scenes"
+        ],
+        "word_count": 2602,
+        "reading_level": 7.6,
+        "link_count": 1,
+        "image_count": 16
+    },
+    {
+        "reading_time": 3,
+        "title": "How IFC’s ‘Documentary Now’ Crushes Collaboration",
+        "date": "December 1, 2016",
+        "month": "December",
+        "weekday": "Thursday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "behind the scenes",
+            "interviews"
+        ],
+        "word_count": 626,
+        "reading_level": 13.6,
+        "link_count": 9,
+        "image_count": 5
+    },
+    {
+        "reading_time": 5,
+        "title": "The new face of the election: VoteCastr, Election Day and Frame.io",
+        "date": "October 31, 2016",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "behind the scenes"
+        ],
+        "word_count": 1183,
+        "reading_level": 11.2,
+        "link_count": 3,
+        "image_count": 4
+    },
+    {
+        "reading_time": 6,
+        "title": "Frame.io Cribs: Picrow (Hollywood, California)",
+        "date": "September 16, 2016",
+        "month": "September",
+        "weekday": "Friday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "cribs"
+        ],
+        "word_count": 1258,
+        "reading_level": 10.7,
+        "link_count": 4,
+        "image_count": 32
+    },
+    {
+        "reading_time": 3,
+        "title": "Frame.io Cribs: Framestore, Los Angeles",
+        "date": "August 30, 2016",
+        "month": "August",
+        "weekday": "Tuesday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "cribs"
+        ],
+        "word_count": 601,
+        "reading_level": 12.4,
+        "link_count": 5,
+        "image_count": 15
+    },
+    {
+        "reading_time": 13,
+        "title": "Behind the scenes: 6 Below",
+        "date": "July 22, 2016",
+        "month": "July",
+        "weekday": "Friday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "behind the scenes"
+        ],
+        "word_count": 2672,
+        "reading_level": 9.9,
+        "link_count": 3,
+        "image_count": 18
+    },
+    {
+        "reading_time": 16,
+        "title": "A Beginner’s Guide to Shooting Raw",
+        "date": "September 23, 2019",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "Ben Bailey",
+        "categories": [
+            "cinematography",
+            "workflow process"
+        ],
+        "word_count": 3308,
+        "reading_level": 11.9,
+        "link_count": 34,
+        "image_count": 3
+    },
+    {
+        "reading_time": 15,
+        "title": "Why Every Editor, Colorist, and VFX Artist Needs to Understand ACES",
+        "date": "September 9, 2019",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "Ben Bailey",
+        "categories": [
+            "color",
+            "technology"
+        ],
+        "word_count": 3044,
+        "reading_level": 13.4,
+        "link_count": 15,
+        "image_count": 7
+    },
+    {
+        "reading_time": 16,
+        "title": "6 Ways to Be More Productive and Creative with your Filmmaking",
+        "date": "September 3, 2019",
+        "month": "September",
+        "weekday": "Tuesday",
+        "author": "Zack Arnold",
+        "categories": [
+            "career",
+            "production"
+        ],
+        "word_count": 3264,
+        "reading_level": 12.3,
+        "link_count": 13,
+        "image_count": 6
+    },
+    {
+        "reading_time": 5,
+        "title": "Deliver 8K Dailies in Minutes with this New Workflow from LumaForge",
+        "date": "June 27, 2019",
+        "month": "June",
+        "weekday": "Thursday",
+        "author": "Ben Bailey",
+        "categories": [
+            "production",
+            "technology"
+        ],
+        "word_count": 1205,
+        "reading_level": 13.4,
+        "link_count": 9,
+        "image_count": 8
+    },
+    {
+        "reading_time": 19,
+        "title": "Enterprise Digital Asset Management – Part 2: Strategy",
+        "date": "June 26, 2019",
+        "month": "June",
+        "weekday": "Wednesday",
+        "author": "Robert Krueger",
+        "categories": [
+            "enterprise solutions",
+            "technology"
+        ],
+        "word_count": 3788,
+        "reading_level": 13.5,
+        "link_count": 12,
+        "image_count": 7
+    },
+    {
+        "reading_time": 8,
+        "title": "Enterprise Digital Asset Management – Part 1: System Planning",
+        "date": "June 25, 2019",
+        "month": "June",
+        "weekday": "Tuesday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "enterprise solutions",
+            "technology"
+        ],
+        "word_count": 1735,
+        "reading_level": 13.2,
+        "link_count": 9,
+        "image_count": 2
+    },
+    {
+        "reading_time": 12,
+        "title": "How Peter Jackson Brought WWI to Life in “They Shall Not Grow Old”",
+        "date": "June 6, 2019",
+        "month": "June",
+        "weekday": "Thursday",
+        "author": "Christian Leithart",
+        "categories": [
+            "technology"
+        ],
+        "word_count": 2577,
+        "reading_level": 15.3,
+        "link_count": 3,
+        "image_count": 11
+    },
+    {
+        "reading_time": 6,
+        "title": "Workflows at Scale: BuzzFeed Harnesses the Power of Frame.io’s API",
+        "date": "June 3, 2019",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "frame.io enterprise",
+            "made in frame",
+            "technology"
+        ],
+        "word_count": 1254,
+        "reading_level": 17.5,
+        "link_count": 16,
+        "image_count": 5
+    },
+    {
+        "reading_time": 2,
+        "title": "How a Universal Sensor Size Could Revolutionize the Industry",
+        "date": "April 23, 2019",
+        "month": "April",
+        "weekday": "Tuesday",
+        "author": "Ron Dawson",
+        "categories": [
+            "technology"
+        ],
+        "word_count": 513,
+        "reading_level": 14.6,
+        "link_count": 1,
+        "image_count": 2
+    },
+    {
+        "reading_time": 14,
+        "title": "First Public Demo of Frame.io in DaVinci Resolve by Alexis Van Hurkman",
+        "date": "April 22, 2019",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "davinci resolve",
+            "technology"
+        ],
+        "word_count": 2915,
+        "reading_level": 6.9,
+        "link_count": 4,
+        "image_count": 1
+    },
+    {
+        "reading_time": 11,
+        "title": "Tech in Hollywood: 2 Filmmakers Breaking Barriers and Building Buzz",
+        "date": "April 15, 2019",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "directing",
+            "technology"
+        ],
+        "word_count": 2366,
+        "reading_level": 13.5,
+        "link_count": 8,
+        "image_count": 21
+    },
+    {
+        "reading_time": 15,
+        "title": "The Grammar of Storytelling: Narrative Editing with Andy Weisblum, ACE",
+        "date": "February 28, 2019",
+        "month": "February",
+        "weekday": "Thursday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "editing",
+            "storytelling"
+        ],
+        "word_count": 2942,
+        "reading_level": 16.7,
+        "link_count": 9,
+        "image_count": 5
+    },
+    {
+        "reading_time": 11,
+        "title": "6 African-American Filmmakers Who Have Achieved Cinematic Milestones",
+        "date": "February 21, 2019",
+        "month": "February",
+        "weekday": "Thursday",
+        "author": "Andrew LaSane",
+        "categories": [
+            "directing",
+            "op-ed"
+        ],
+        "word_count": 2392,
+        "reading_level": 16.2,
+        "link_count": 9,
+        "image_count": 7
+    },
+    {
+        "reading_time": 11,
+        "title": "Graphic Design in Film: The Substance of Visual Storytelling",
+        "date": "February 7, 2019",
+        "month": "February",
+        "weekday": "Thursday",
+        "author": "Andrew LaSane",
+        "categories": [
+            "design"
+        ],
+        "word_count": 2392,
+        "reading_level": 11.6,
+        "link_count": 5,
+        "image_count": 8
+    },
+    {
+        "reading_time": 15,
+        "title": "A Creative Director’s Guide to Building Trust Within Creative Teams",
+        "date": "November 12, 2018",
+        "month": "November",
+        "weekday": "Monday",
+        "author": "Reuben Evans",
+        "categories": [
+            "production"
+        ],
+        "word_count": 3081,
+        "reading_level": 12.1,
+        "link_count": 4,
+        "image_count": 19
+    },
+    {
+        "reading_time": 11,
+        "title": "How to Practice Good Media Management on Any Budget",
+        "date": "October 8, 2018",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Chris Salters",
+        "categories": [
+            "production"
+        ],
+        "word_count": 2322,
+        "reading_level": 10.8,
+        "link_count": 26,
+        "image_count": 7
+    },
+    {
+        "reading_time": 18,
+        "title": "How to Conceive and Create an Iconic TV Title Sequence",
+        "date": "July 9, 2018",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Alexander Huls",
+        "categories": [
+            "design"
+        ],
+        "word_count": 3624,
+        "reading_level": 13.9,
+        "link_count": 7,
+        "image_count": 24
+    },
+    {
+        "reading_time": 21,
+        "title": "The Most Iconic Title Sequences of All Time and Why They Work",
+        "date": "June 4, 2018",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Hilda Saffari",
+        "categories": [
+            "design"
+        ],
+        "word_count": 4345,
+        "reading_level": 14,
+        "link_count": 16,
+        "image_count": 25
+    },
+    {
+        "reading_time": 21,
+        "title": "What Makes A True Game-Changer? Twelve Film Industry Leaders Weigh In.",
+        "date": "April 16, 2018",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "technology"
+        ],
+        "word_count": 4102,
+        "reading_level": 10.5,
+        "link_count": 20,
+        "image_count": 11
+    },
+    {
+        "reading_time": 11,
+        "title": "Perfect Your Dialogue Scenes with the “Fincher Effect”",
+        "date": "January 26, 2018",
+        "month": "January",
+        "weekday": "Friday",
+        "author": "Jason Boone",
+        "categories": [
+            "directing",
+            "editing"
+        ],
+        "word_count": 2236,
+        "reading_level": 9.9,
+        "link_count": 3,
+        "image_count": 9
+    },
+    {
+        "reading_time": 11,
+        "title": "These Premiere Pro Audio Tools Will Make You A Mix Master",
+        "date": "January 22, 2018",
+        "month": "January",
+        "weekday": "Monday",
+        "author": "Jason Boone",
+        "categories": [
+            "premiere pro",
+            "sound"
+        ],
+        "word_count": 2274,
+        "reading_level": 11.1,
+        "link_count": 1,
+        "image_count": 21
+    },
+    {
+        "reading_time": 11,
+        "title": "8 Fonts From Iconic Sci-Fi Films (and How to Choose Your Own)",
+        "date": "December 11, 2017",
+        "month": "December",
+        "weekday": "Monday",
+        "author": "Jason Boone",
+        "categories": [
+            "design"
+        ],
+        "word_count": 2353,
+        "reading_level": 10.2,
+        "link_count": 16,
+        "image_count": 33
+    },
+    {
+        "reading_time": 8,
+        "title": "5 Broadcast Audio Specs Every Editor Must Understand",
+        "date": "August 9, 2017",
+        "month": "August",
+        "weekday": "Wednesday",
+        "author": "Jeff Hinton",
+        "categories": [
+            "sound"
+        ],
+        "word_count": 1776,
+        "reading_level": 30.7,
+        "link_count": 1,
+        "image_count": 10
+    },
+    {
+        "reading_time": 10,
+        "title": "How to Keep Your Sound Editor Happy (According to a Sound Editor)",
+        "date": "April 10, 2017",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Jeff Hinton",
+        "categories": [
+            "sound"
+        ],
+        "word_count": 2048,
+        "reading_level": 14.7,
+        "link_count": 0,
+        "image_count": 6
+    },
+    {
+        "reading_time": 12,
+        "title": "Five shooting situations that require a specific camera",
+        "date": "December 6, 2016",
+        "month": "December",
+        "weekday": "Tuesday",
+        "author": "Sin Cohen",
+        "categories": [
+            "production"
+        ],
+        "word_count": 2561,
+        "reading_level": 9.4,
+        "link_count": 0,
+        "image_count": 9
+    },
+    {
+        "reading_time": 6,
+        "title": "How to fascinate an audience by playing with time",
+        "date": "November 15, 2016",
+        "month": "November",
+        "weekday": "Tuesday",
+        "author": "Andrew LaSane",
+        "categories": [
+            "storytelling"
+        ],
+        "word_count": 1399,
+        "reading_level": 11.1,
+        "link_count": 3,
+        "image_count": 0
+    },
+    {
+        "reading_time": 7,
+        "title": "5 excellent reasons to choose silence over sound",
+        "date": "October 21, 2016",
+        "month": "October",
+        "weekday": "Friday",
+        "author": "Andrew LaSane",
+        "categories": [
+            "storytelling"
+        ],
+        "word_count": 1562,
+        "reading_level": 12.3,
+        "link_count": 3,
+        "image_count": 0
+    },
+    {
+        "reading_time": 17,
+        "title": "Winning at Independent Filmmaking",
+        "date": "September 27, 2016",
+        "month": "September",
+        "weekday": "Tuesday",
+        "author": "Eric Escobar",
+        "categories": [
+            "career",
+            "directing"
+        ],
+        "word_count": 3615,
+        "reading_level": 5.8,
+        "link_count": 2,
+        "image_count": 6
+    },
+    {
+        "reading_time": 5,
+        "title": "How to make a bland image cinematic: take things away",
+        "date": "September 8, 2016",
+        "month": "September",
+        "weekday": "Thursday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "cinematography"
+        ],
+        "word_count": 1073,
+        "reading_level": 9.7,
+        "link_count": 3,
+        "image_count": 2
+    },
+    {
+        "reading_time": 6,
+        "title": "How to use a dolly shot to transform a simple scene",
+        "date": "September 1, 2016",
+        "month": "September",
+        "weekday": "Thursday",
+        "author": "Stephen Heleker",
+        "categories": [
+            "cinematography"
+        ],
+        "word_count": 1231,
+        "reading_level": 9.3,
+        "link_count": 11,
+        "image_count": 1
+    },
+    {
+        "reading_time": 10,
+        "title": "VR for the novice: what the storyteller needs to know",
+        "date": "August 23, 2016",
+        "month": "August",
+        "weekday": "Tuesday",
+        "author": "Jacqwi Campbell",
+        "categories": [
+            "storytelling",
+            "technology"
+        ],
+        "word_count": 2073,
+        "reading_level": 10.7,
+        "link_count": 9,
+        "image_count": 5
+    },
+    {
+        "reading_time": 4,
+        "title": "How to move everything but the camera",
+        "date": "August 18, 2016",
+        "month": "August",
+        "weekday": "Thursday",
+        "author": "Eric Escobar",
+        "categories": [
+            "directing"
+        ],
+        "word_count": 1060,
+        "reading_level": 10.6,
+        "link_count": 3,
+        "image_count": 3
+    },
+    {
+        "reading_time": 8,
+        "title": "How to improve visual storytelling daily (on the sly)",
+        "date": "August 12, 2016",
+        "month": "August",
+        "weekday": "Friday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "directing",
+            "storytelling"
+        ],
+        "word_count": 1711,
+        "reading_level": 11.4,
+        "link_count": 9,
+        "image_count": 1
+    },
+    {
+        "reading_time": 9,
+        "title": "When to break the 180 degree rule",
+        "date": "August 1, 2016",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "directing"
+        ],
+        "word_count": 1878,
+        "reading_level": 12.3,
+        "link_count": 9,
+        "image_count": 4
+    },
+    {
+        "reading_time": 5,
+        "title": "How to use slow motion for maximum impact",
+        "date": "July 26, 2016",
+        "month": "July",
+        "weekday": "Tuesday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "cinematography",
+            "directing"
+        ],
+        "word_count": 1157,
+        "reading_level": 13,
+        "link_count": 2,
+        "image_count": 4
+    },
+    {
+        "reading_time": 7,
+        "title": "Cast great actors by holding better auditions",
+        "date": "February 4, 2016",
+        "month": "February",
+        "weekday": "Thursday",
+        "author": "Stephen Heleker",
+        "categories": [
+            "directing"
+        ],
+        "word_count": 1477,
+        "reading_level": 8.4,
+        "link_count": 2,
+        "image_count": 0
+    },
+    {
+        "reading_time": 7,
+        "title": "How to make great storyboards, even if you can’t draw",
+        "date": "January 28, 2016",
+        "month": "January",
+        "weekday": "Thursday",
+        "author": "Stephen Heleker",
+        "categories": [
+            "cinematography",
+            "directing"
+        ],
+        "word_count": 1561,
+        "reading_level": 8.3,
+        "link_count": 7,
+        "image_count": 2
+    },
+    {
+        "reading_time": 4,
+        "title": "6 photographers who will make you a better filmmaker",
+        "date": "January 25, 2016",
+        "month": "January",
+        "weekday": "Monday",
+        "author": "Stephen Heleker",
+        "categories": [
+            "cinematography"
+        ],
+        "word_count": 1010,
+        "reading_level": 11.4,
+        "link_count": 8,
+        "image_count": 6
+    },
+    {
+        "reading_time": 5,
+        "title": "6 steps to writing powerful loglines",
+        "date": "January 18, 2016",
+        "month": "January",
+        "weekday": "Monday",
+        "author": "Stephen Heleker",
+        "categories": [
+            "storytelling"
+        ],
+        "word_count": 1112,
+        "reading_level": 11.8,
+        "link_count": 5,
+        "image_count": 2
+    },
+    {
+        "reading_time": 3,
+        "title": "Say yes to vertical video",
+        "date": "December 31, 2015",
+        "month": "December",
+        "weekday": "Thursday",
+        "author": "Stephen Heleker",
+        "categories": [
+            "production"
+        ],
+        "word_count": 812,
+        "reading_level": 9.9,
+        "link_count": 2,
+        "image_count": 1
+    },
+    {
+        "reading_time": 3,
+        "title": "How to launch your career with a jaw dropping spec piece",
+        "date": "December 28, 2015",
+        "month": "December",
+        "weekday": "Monday",
+        "author": "Stephen Heleker",
+        "categories": [
+            "production"
+        ],
+        "word_count": 726,
+        "reading_level": 10,
+        "link_count": 2,
+        "image_count": 0
+    },
+    {
+        "reading_time": 2,
+        "title": "5 compelling ways color can impact your story",
+        "date": "December 24, 2015",
+        "month": "December",
+        "weekday": "Thursday",
+        "author": "Stephen Heleker",
+        "categories": [
+            "storytelling"
+        ],
+        "word_count": 511,
+        "reading_level": 13.3,
+        "link_count": 5,
+        "image_count": 5
+    },
+    {
+        "reading_time": 2,
+        "title": "7 amazing books you’ll never read in film school",
+        "date": "December 21, 2015",
+        "month": "December",
+        "weekday": "Monday",
+        "author": "Stephen Heleker",
+        "categories": [
+            "storytelling"
+        ],
+        "word_count": 628,
+        "reading_level": 10.7,
+        "link_count": 0,
+        "image_count": 7
+    },
+    {
+        "reading_time": 16,
+        "title": "6 Ways to Be More Productive and Creative with your Filmmaking",
+        "date": "September 3, 2019",
+        "month": "September",
+        "weekday": "Tuesday",
+        "author": "Zack Arnold",
+        "categories": [
+            "career",
+            "production"
+        ],
+        "word_count": 3264,
+        "reading_level": 12.3,
+        "link_count": 13,
+        "image_count": 6
+    },
+    {
+        "reading_time": 14,
+        "title": "Want to Work in Hollywood?  Avid is the NLE to Learn.",
+        "date": "August 19, 2019",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Chris Salters",
+        "categories": [
+            "avid",
+            "career"
+        ],
+        "word_count": 2834,
+        "reading_level": 12.9,
+        "link_count": 18,
+        "image_count": 3
+    },
+    {
+        "reading_time": 11,
+        "title": "4 Reasons to Become a Staff vs. Freelance Video Editor",
+        "date": "July 1, 2019",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "career"
+        ],
+        "word_count": 2287,
+        "reading_level": 14.3,
+        "link_count": 8,
+        "image_count": 15
+    },
+    {
+        "reading_time": 15,
+        "title": "Pulse of Progress: Rewards and Challenges of Being a Woman in Post",
+        "date": "March 25, 2019",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "career"
+        ],
+        "word_count": 3101,
+        "reading_level": 14.9,
+        "link_count": 18,
+        "image_count": 11
+    },
+    {
+        "reading_time": 11,
+        "title": "The Most Direct Path to Lead Editor May be a Detour to Indie Films",
+        "date": "January 22, 2019",
+        "month": "January",
+        "weekday": "Tuesday",
+        "author": "Niki Smith",
+        "categories": [
+            "career"
+        ],
+        "word_count": 2299,
+        "reading_level": 13.8,
+        "link_count": 4,
+        "image_count": 7
+    },
+    {
+        "reading_time": 12,
+        "title": "Hustle and Workflow: Strategies to Land a Job in Video Production",
+        "date": "January 14, 2019",
+        "month": "January",
+        "weekday": "Monday",
+        "author": "Mike Clum",
+        "categories": [
+            "career"
+        ],
+        "word_count": 2450,
+        "reading_level": 11.1,
+        "link_count": 19,
+        "image_count": 8
+    },
+    {
+        "reading_time": 19,
+        "title": "5 Reasons Aspiring Editors Might Need to Move to LA or NY",
+        "date": "January 7, 2019",
+        "month": "January",
+        "weekday": "Monday",
+        "author": "Christian Leithart",
+        "categories": [
+            "career"
+        ],
+        "word_count": 3763,
+        "reading_level": 11.5,
+        "link_count": 10,
+        "image_count": 9
+    },
+    {
+        "reading_time": 15,
+        "title": "The Ten Commandments of Working with Editors",
+        "date": "October 29, 2018",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Zack Arnold",
+        "categories": [
+            "general business"
+        ],
+        "word_count": 3161,
+        "reading_level": 11.2,
+        "link_count": 30,
+        "image_count": 12
+    },
+    {
+        "reading_time": 14,
+        "title": "How to Market Your Video Services Around the World",
+        "date": "October 15, 2018",
+        "month": "October",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "sales & marketing"
+        ],
+        "word_count": 2978,
+        "reading_level": 10,
+        "link_count": 11,
+        "image_count": 8
+    },
+    {
+        "reading_time": 14,
+        "title": "4 Ways to Maximize Creative Fulfillment and Still Make a Living",
+        "date": "August 20, 2018",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "career",
+            "op-ed"
+        ],
+        "word_count": 2974,
+        "reading_level": 10.5,
+        "link_count": 34,
+        "image_count": 7
+    },
+    {
+        "reading_time": 11,
+        "title": "Passion Is Not Enough: 4 Keys to Getting Paid for Your Art",
+        "date": "August 13, 2018",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "career",
+            "sales & marketing"
+        ],
+        "word_count": 2378,
+        "reading_level": 8.8,
+        "link_count": 19,
+        "image_count": 9
+    },
+    {
+        "reading_time": 15,
+        "title": "5 Things Every Editor Can Do To Build Trust and Keep Clients",
+        "date": "August 6, 2018",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Zack Arnold",
+        "categories": [
+            "career"
+        ],
+        "word_count": 3017,
+        "reading_level": 12.1,
+        "link_count": 1,
+        "image_count": 8
+    },
+    {
+        "reading_time": 15,
+        "title": "John Wick 2 Editor Shares His Top Career Strategies",
+        "date": "March 19, 2018",
+        "month": "March",
+        "weekday": "Monday",
+        "author": "Christian Leithart",
+        "categories": [
+            "career"
+        ],
+        "word_count": 3133,
+        "reading_level": 10.6,
+        "link_count": 8,
+        "image_count": 12
+    },
+    {
+        "reading_time": 7,
+        "title": "The Mechanics of Pitching an Agency For an Ad Contract",
+        "date": "January 24, 2018",
+        "month": "January",
+        "weekday": "Wednesday",
+        "author": "Clara Lehmann",
+        "categories": [
+            "sales & marketing"
+        ],
+        "word_count": 1523,
+        "reading_level": 11.9,
+        "link_count": 5,
+        "image_count": 14
+    },
+    {
+        "reading_time": 7,
+        "title": "Essential Organization Habits for The Successful Editor",
+        "date": "December 20, 2017",
+        "month": "December",
+        "weekday": "Wednesday",
+        "author": "Clara Lehmann",
+        "categories": [
+            "general business"
+        ],
+        "word_count": 1488,
+        "reading_level": 13.7,
+        "link_count": 18,
+        "image_count": 8
+    },
+    {
+        "reading_time": 26,
+        "title": "How to Determine Your Rate as an Editor",
+        "date": "December 18, 2017",
+        "month": "December",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "sales & marketing"
+        ],
+        "word_count": 5090,
+        "reading_level": 13.2,
+        "link_count": 17,
+        "image_count": 13
+    },
+    {
+        "reading_time": 9,
+        "title": "Behind the Scenes of a Google Branding Video",
+        "date": "December 6, 2017",
+        "month": "December",
+        "weekday": "Wednesday",
+        "author": "Clara Lehmann",
+        "categories": [
+            "sales & marketing"
+        ],
+        "word_count": 1877,
+        "reading_level": 14.4,
+        "link_count": 6,
+        "image_count": 20
+    },
+    {
+        "reading_time": 19,
+        "title": "10 Strategies to Maintain Work-Life Balance When Working Remotely",
+        "date": "September 25, 2017",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "Zack Arnold",
+        "categories": [
+            "career"
+        ],
+        "word_count": 3971,
+        "reading_level": 15.3,
+        "link_count": 30,
+        "image_count": 17
+    },
+    {
+        "reading_time": 13,
+        "title": "5 Reasons to Work for Free",
+        "date": "September 18, 2017",
+        "month": "September",
+        "weekday": "Monday",
+        "author": "Clara Lehmann",
+        "categories": [
+            "sales & marketing"
+        ],
+        "word_count": 2742,
+        "reading_level": 10.4,
+        "link_count": 23,
+        "image_count": 12
+    },
+    {
+        "reading_time": 28,
+        "title": "The Ultimate Guide to Fair Use and Copyrights for Filmmakers",
+        "date": "August 30, 2017",
+        "month": "August",
+        "weekday": "Wednesday",
+        "author": "Ron Dawson",
+        "categories": [
+            "general business"
+        ],
+        "word_count": 5687,
+        "reading_level": 11.6,
+        "link_count": 47,
+        "image_count": 14
+    },
+    {
+        "reading_time": 16,
+        "title": "22 Success Tips for Women Filmmakers in a Male-Dominated Industry",
+        "date": "August 28, 2017",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "career"
+        ],
+        "word_count": 3229,
+        "reading_level": 10.6,
+        "link_count": 12,
+        "image_count": 10
+    },
+    {
+        "reading_time": 15,
+        "title": "“Empire” Editor Has 7 Steps to Network Successfully in Hollywood",
+        "date": "August 14, 2017",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Rob Hardy",
+        "categories": [
+            "career"
+        ],
+        "word_count": 3038,
+        "reading_level": 9.7,
+        "link_count": 2,
+        "image_count": 8
+    },
+    {
+        "reading_time": 28,
+        "title": "Black, Blonde and Bold. Making it in Hollywood When You Don’t Fit the Mold.",
+        "date": "July 10, 2017",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "career"
+        ],
+        "word_count": 5567,
+        "reading_level": 10.6,
+        "link_count": 2,
+        "image_count": 19
+    },
+    {
+        "reading_time": 9,
+        "title": "How to Not Break Up With Your Director: The Editor’s Guide",
+        "date": "June 28, 2017",
+        "month": "June",
+        "weekday": "Wednesday",
+        "author": "Yuri Baranovsky",
+        "categories": [
+            "career"
+        ],
+        "word_count": 1842,
+        "reading_level": 9.8,
+        "link_count": 1,
+        "image_count": 4
+    },
+    {
+        "reading_time": 7,
+        "title": "Jump from Assistant to Lead Editor, from the Co-editor of Dr. Strange",
+        "date": "June 12, 2017",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Scott Strandberg",
+        "categories": [
+            "career",
+            "editing"
+        ],
+        "word_count": 1615,
+        "reading_level": 15.1,
+        "link_count": 2,
+        "image_count": 4
+    },
+    {
+        "reading_time": 13,
+        "title": "How to Get Hired (and Rehired) as an Editor",
+        "date": "June 1, 2017",
+        "month": "June",
+        "weekday": "Thursday",
+        "author": "Yuri Baranovsky",
+        "categories": [
+            "career"
+        ],
+        "word_count": 2601,
+        "reading_level": 8.7,
+        "link_count": 1,
+        "image_count": 5
+    },
+    {
+        "reading_time": 8,
+        "title": "How the Doctor Strange Co-Editors Built a Team Dynamic",
+        "date": "May 25, 2017",
+        "month": "May",
+        "weekday": "Thursday",
+        "author": "Scott Strandberg",
+        "categories": [
+            "career",
+            "editing"
+        ],
+        "word_count": 1781,
+        "reading_level": 16.2,
+        "link_count": 0,
+        "image_count": 5
+    },
+    {
+        "reading_time": 11,
+        "title": "4 Keys to a Fulfilling Editing Career From a Veteran Editor",
+        "date": "May 22, 2017",
+        "month": "May",
+        "weekday": "Monday",
+        "author": "Hilda Saffari",
+        "categories": [
+            "career"
+        ],
+        "word_count": 2272,
+        "reading_level": 13.8,
+        "link_count": 1,
+        "image_count": 4
+    },
+    {
+        "reading_time": 10,
+        "title": "How Taylor Tracy Left Corporate Video to Cut A-List Music Videos",
+        "date": "May 18, 2017",
+        "month": "May",
+        "weekday": "Thursday",
+        "author": "Scott Strandberg",
+        "categories": [
+            "career"
+        ],
+        "word_count": 2032,
+        "reading_level": 15.5,
+        "link_count": 1,
+        "image_count": 6
+    },
+    {
+        "reading_time": 12,
+        "title": "What 15 Years of Writing Videography Contracts Has Taught Me",
+        "date": "April 21, 2017",
+        "month": "April",
+        "weekday": "Friday",
+        "author": "Ron Dawson",
+        "categories": [
+            "general business"
+        ],
+        "word_count": 2538,
+        "reading_level": 10.8,
+        "link_count": 1,
+        "image_count": 11
+    },
+    {
+        "reading_time": 12,
+        "title": "9 Principles For a Long Career as a Video Creative",
+        "date": "March 31, 2017",
+        "month": "March",
+        "weekday": "Friday",
+        "author": "Ashraf Meer",
+        "categories": [
+            "career"
+        ],
+        "word_count": 2550,
+        "reading_level": 8.2,
+        "link_count": 0,
+        "image_count": 0
+    },
+    {
+        "reading_time": 17,
+        "title": "Winning at Independent Filmmaking",
+        "date": "September 27, 2016",
+        "month": "September",
+        "weekday": "Tuesday",
+        "author": "Eric Escobar",
+        "categories": [
+            "career",
+            "directing"
+        ],
+        "word_count": 3615,
+        "reading_level": 5.8,
+        "link_count": 2,
+        "image_count": 6
+    },
+    {
+        "reading_time": 4,
+        "title": "8 viral ads that won 2015",
+        "date": "January 11, 2016",
+        "month": "January",
+        "weekday": "Monday",
+        "author": "Stephen Heleker",
+        "categories": [
+            "sales & marketing"
+        ],
+        "word_count": 870,
+        "reading_level": 10.8,
+        "link_count": 2,
+        "image_count": 0
+    },
+    {
+        "reading_time": 4,
+        "title": "How Three Directors Went From Short Film to Hollywood",
+        "date": "January 7, 2016",
+        "month": "January",
+        "weekday": "Thursday",
+        "author": "Stephen Heleker",
+        "categories": [
+            "career"
+        ],
+        "word_count": 944,
+        "reading_level": 10.5,
+        "link_count": 0,
+        "image_count": 0
+    },
+    {
+        "reading_time": 3,
+        "title": "4 essential principles you can use to become a better filmmaker in 2016",
+        "date": "January 4, 2016",
+        "month": "January",
+        "weekday": "Monday",
+        "author": "Stephen Heleker",
+        "categories": [
+            "career"
+        ],
+        "word_count": 760,
+        "reading_level": 7.9,
+        "link_count": 0,
+        "image_count": 0
+    },
+    {
+        "reading_time": 19,
+        "title": "Enterprise Digital Asset Management – Part 2: Strategy",
+        "date": "June 26, 2019",
+        "month": "June",
+        "weekday": "Wednesday",
+        "author": "Robert Krueger",
+        "categories": [
+            "enterprise solutions",
+            "technology"
+        ],
+        "word_count": 3788,
+        "reading_level": 13.5,
+        "link_count": 12,
+        "image_count": 7
+    },
+    {
+        "reading_time": 8,
+        "title": "Enterprise Digital Asset Management – Part 1: System Planning",
+        "date": "June 25, 2019",
+        "month": "June",
+        "weekday": "Tuesday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "enterprise solutions",
+            "technology"
+        ],
+        "word_count": 1735,
+        "reading_level": 13.2,
+        "link_count": 9,
+        "image_count": 2
+    },
+    {
+        "reading_time": 6,
+        "title": "How Frame.io Helps VICE Give All the F***s They Want",
+        "date": "June 10, 2019",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "frame.io enterprise",
+            "made in frame"
+        ],
+        "word_count": 1374,
+        "reading_level": 14.3,
+        "link_count": 9,
+        "image_count": 5
+    },
+    {
+        "reading_time": 6,
+        "title": "Workflows at Scale: BuzzFeed Harnesses the Power of Frame.io’s API",
+        "date": "June 3, 2019",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Lisa McNamara",
+        "categories": [
+            "frame.io enterprise",
+            "made in frame",
+            "technology"
+        ],
+        "word_count": 1254,
+        "reading_level": 17.5,
+        "link_count": 16,
+        "image_count": 5
+    },
+    {
+        "reading_time": 2,
+        "title": "Meet Michael Cioni, Our New Global SVP of Innovation at Frame.io",
+        "date": "October 9, 2019",
+        "month": "October",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 588,
+        "reading_level": 15,
+        "link_count": 3,
+        "image_count": 1
+    },
+    {
+        "reading_time": 3,
+        "title": "Introducing Frame.io v3.5 – More Secure, More Precise, and More Flexible.",
+        "date": "September 12, 2019",
+        "month": "September",
+        "weekday": "Thursday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 794,
+        "reading_level": 11.3,
+        "link_count": 7,
+        "image_count": 4
+    },
+    {
+        "reading_time": 5,
+        "title": "How to Use Smart Rendering with the Frame.io Premiere Pro Extension",
+        "date": "August 1, 2019",
+        "month": "August",
+        "weekday": "Thursday",
+        "author": "Brian Levin",
+        "categories": [
+            "editing",
+            "frame.io news",
+            "premiere pro"
+        ],
+        "word_count": 1227,
+        "reading_level": 10.2,
+        "link_count": 5,
+        "image_count": 12
+    },
+    {
+        "reading_time": 2,
+        "title": "The Frame.io Premiere Pro Extension Just Got a Whole Lot of Love",
+        "date": "July 29, 2019",
+        "month": "July",
+        "weekday": "Monday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements",
+            "premiere pro"
+        ],
+        "word_count": 502,
+        "reading_level": 11.2,
+        "link_count": 5,
+        "image_count": 0
+    },
+    {
+        "reading_time": 7,
+        "title": "6 LGBTQ+ Films Ahead of Their Time and Why They Are Important",
+        "date": "June 24, 2019",
+        "month": "June",
+        "weekday": "Monday",
+        "author": "Alexander Huls",
+        "categories": [
+            "op-ed"
+        ],
+        "word_count": 1470,
+        "reading_level": 12.6,
+        "link_count": 7,
+        "image_count": 1
+    },
+    {
+        "reading_time": 2,
+        "title": "All the Frame.io Memories from NAB 2019",
+        "date": "April 11, 2019",
+        "month": "April",
+        "weekday": "Thursday",
+        "author": "Ron Dawson",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 181,
+        "reading_level": 19.5,
+        "link_count": 37,
+        "image_count": 32
+    },
+    {
+        "reading_time": 2,
+        "title": "Not Just an Integration: Introducing Frame.io in DaVinci Resolve 16",
+        "date": "April 8, 2019",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements",
+            "davinci resolve"
+        ],
+        "word_count": 595,
+        "reading_level": 14.6,
+        "link_count": 5,
+        "image_count": 2
+    },
+    {
+        "reading_time": 3,
+        "title": "Introducing the Frame.io Developer Platform with Zapier Integration",
+        "date": "April 8, 2019",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Max Baehr",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 649,
+        "reading_level": 12.8,
+        "link_count": 14,
+        "image_count": 2
+    },
+    {
+        "reading_time": 3,
+        "title": "Introducing Frame.io for MS Paint and Windows Movie Maker",
+        "date": "April 1, 2019",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Rick",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 793,
+        "reading_level": 11.9,
+        "link_count": 9,
+        "image_count": 3
+    },
+    {
+        "reading_time": 2,
+        "title": "Frame.io just got a major upgrade",
+        "date": "March 19, 2019",
+        "month": "March",
+        "weekday": "Tuesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 592,
+        "reading_level": 11.9,
+        "link_count": 4,
+        "image_count": 3
+    },
+    {
+        "reading_time": 2,
+        "title": "Frame.io Boosts Enterprise-level Security: Now SOC 2 Type 2 Compliant",
+        "date": "March 7, 2019",
+        "month": "March",
+        "weekday": "Thursday",
+        "author": "Abhinav Srivastava",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 654,
+        "reading_level": 17.5,
+        "link_count": 6,
+        "image_count": 1
+    },
+    {
+        "reading_time": 11,
+        "title": "6 African-American Filmmakers Who Have Achieved Cinematic Milestones",
+        "date": "February 21, 2019",
+        "month": "February",
+        "weekday": "Thursday",
+        "author": "Andrew LaSane",
+        "categories": [
+            "directing",
+            "op-ed"
+        ],
+        "word_count": 2392,
+        "reading_level": 16.2,
+        "link_count": 9,
+        "image_count": 7
+    },
+    {
+        "reading_time": 6,
+        "title": "The Top 18 Articles in 2018 that Inspired and Informed You the Most",
+        "date": "December 27, 2018",
+        "month": "December",
+        "weekday": "Thursday",
+        "author": "Ron Dawson",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 1358,
+        "reading_level": 20.1,
+        "link_count": 21,
+        "image_count": 18
+    },
+    {
+        "reading_time": 4,
+        "title": "Our 2018 Year in Review. A Faster, Smarter, Sleeker Frame.io",
+        "date": "December 20, 2018",
+        "month": "December",
+        "weekday": "Thursday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 893,
+        "reading_level": 12.4,
+        "link_count": 11,
+        "image_count": 8
+    },
+    {
+        "reading_time": 2,
+        "title": "The Ultimate Post-Production Workflow Guide is Here",
+        "date": "December 11, 2018",
+        "month": "December",
+        "weekday": "Tuesday",
+        "author": "David Kong",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 435,
+        "reading_level": 14.6,
+        "link_count": 2,
+        "image_count": 3
+    },
+    {
+        "reading_time": 2,
+        "title": "Introducing Frame.io in Final Cut Pro X",
+        "date": "November 15, 2018",
+        "month": "November",
+        "weekday": "Thursday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements",
+            "final cut pro x"
+        ],
+        "word_count": 511,
+        "reading_level": 14.6,
+        "link_count": 3,
+        "image_count": 2
+    },
+    {
+        "reading_time": 3,
+        "title": "Introducing the new Frame.io Project View",
+        "date": "November 6, 2018",
+        "month": "November",
+        "weekday": "Tuesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 642,
+        "reading_level": 11.9,
+        "link_count": 4,
+        "image_count": 1
+    },
+    {
+        "reading_time": 2,
+        "title": "Frame.io Has Completed TPN Assessment",
+        "date": "September 12, 2018",
+        "month": "September",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 371,
+        "reading_level": 18.6,
+        "link_count": 6,
+        "image_count": 1
+    },
+    {
+        "reading_time": 14,
+        "title": "4 Ways to Maximize Creative Fulfillment and Still Make a Living",
+        "date": "August 20, 2018",
+        "month": "August",
+        "weekday": "Monday",
+        "author": "Ron Dawson",
+        "categories": [
+            "career",
+            "op-ed"
+        ],
+        "word_count": 2974,
+        "reading_level": 10.5,
+        "link_count": 34,
+        "image_count": 7
+    },
+    {
+        "reading_time": 3,
+        "title": "Delivering on Our Security Promise",
+        "date": "July 10, 2018",
+        "month": "July",
+        "weekday": "Tuesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 831,
+        "reading_level": 15.4,
+        "link_count": 6,
+        "image_count": 3
+    },
+    {
+        "reading_time": 2,
+        "title": "Announcing Presence, View History, and Asset Search",
+        "date": "June 13, 2018",
+        "month": "June",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 384,
+        "reading_level": 12.2,
+        "link_count": 3,
+        "image_count": 5
+    },
+    {
+        "reading_time": 2,
+        "title": "Introducing Frame.io Image Review",
+        "date": "May 30, 2018",
+        "month": "May",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 551,
+        "reading_level": 14.7,
+        "link_count": 9,
+        "image_count": 4
+    },
+    {
+        "reading_time": 2,
+        "title": "Introducing Frame.io Watch Folders for macOS",
+        "date": "April 9, 2018",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 354,
+        "reading_level": 15.4,
+        "link_count": 4,
+        "image_count": 1
+    },
+    {
+        "reading_time": 2,
+        "title": "The All New Frame.io Is Coming…",
+        "date": "March 27, 2018",
+        "month": "March",
+        "weekday": "Tuesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 552,
+        "reading_level": 13.5,
+        "link_count": 4,
+        "image_count": 6
+    },
+    {
+        "reading_time": 2,
+        "title": "Frame.io On The Road: See You At NAB!",
+        "date": "March 21, 2018",
+        "month": "March",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 355,
+        "reading_level": 10.6,
+        "link_count": 7,
+        "image_count": 0
+    },
+    {
+        "reading_time": 3,
+        "title": "A Word On Security From Frame.io",
+        "date": "February 14, 2018",
+        "month": "February",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 859,
+        "reading_level": 12.1,
+        "link_count": 11,
+        "image_count": 0
+    },
+    {
+        "reading_time": 2,
+        "title": "Harold Green Unboxes Frame.io Dreamstation. Makes Us All Jealous.",
+        "date": "February 5, 2018",
+        "month": "February",
+        "weekday": "Monday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 956,
+        "reading_level": 19.9,
+        "link_count": 145,
+        "image_count": 0
+    },
+    {
+        "reading_time": 2,
+        "title": "Introducing A Redesigned Player Experience",
+        "date": "February 2, 2018",
+        "month": "February",
+        "weekday": "Friday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 440,
+        "reading_level": 19.4,
+        "link_count": 1,
+        "image_count": 1
+    },
+    {
+        "reading_time": 3,
+        "title": "Win the $62,000 Frame.io Dreamstation Giveaway",
+        "date": "October 24, 2017",
+        "month": "October",
+        "weekday": "Tuesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 761,
+        "reading_level": 12.4,
+        "link_count": 29,
+        "image_count": 0
+    },
+    {
+        "reading_time": 2,
+        "title": "Introducing Frame.io + Pond5",
+        "date": "October 18, 2017",
+        "month": "October",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 431,
+        "reading_level": 10,
+        "link_count": 6,
+        "image_count": 4
+    },
+    {
+        "reading_time": 2,
+        "title": "Our $20M Series B",
+        "date": "October 3, 2017",
+        "month": "October",
+        "weekday": "Tuesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 703,
+        "reading_level": 10.9,
+        "link_count": 11,
+        "image_count": 1
+    },
+    {
+        "reading_time": 2,
+        "title": "Hang out with Frame.io at IBC 2017",
+        "date": "September 5, 2017",
+        "month": "September",
+        "weekday": "Tuesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 327,
+        "reading_level": 16.5,
+        "link_count": 9,
+        "image_count": 4
+    },
+    {
+        "reading_time": 2,
+        "title": "Introducing Frame.io Enterprise",
+        "date": "June 20, 2017",
+        "month": "June",
+        "weekday": "Tuesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 577,
+        "reading_level": 13.2,
+        "link_count": 5,
+        "image_count": 1
+    },
+    {
+        "reading_time": 2,
+        "title": "Announcing Frame.io Version 1.4 for iOS!",
+        "date": "May 31, 2017",
+        "month": "May",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 237,
+        "reading_level": 16.3,
+        "link_count": 5,
+        "image_count": 1
+    },
+    {
+        "reading_time": 2,
+        "title": "Frame.io Takes NAB 2017 Best of Show Award",
+        "date": "May 4, 2017",
+        "month": "May",
+        "weekday": "Thursday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 234,
+        "reading_level": 18.5,
+        "link_count": 2,
+        "image_count": 8
+    },
+    {
+        "reading_time": 2,
+        "title": "Hang out with Frame.io at NAB",
+        "date": "April 20, 2017",
+        "month": "April",
+        "weekday": "Thursday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 236,
+        "reading_level": 17.4,
+        "link_count": 5,
+        "image_count": 1
+    },
+    {
+        "reading_time": 3,
+        "title": "Introducing Frame.io 2",
+        "date": "April 10, 2017",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 771,
+        "reading_level": 17.3,
+        "link_count": 4,
+        "image_count": 1
+    },
+    {
+        "reading_time": 5,
+        "title": "Introducing Frame.io for Adobe After Effects CC",
+        "date": "November 7, 2016",
+        "month": "November",
+        "weekday": "Monday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 1044,
+        "reading_level": 10.5,
+        "link_count": 4,
+        "image_count": 3
+    },
+    {
+        "reading_time": 2,
+        "title": "Our $10M Series A",
+        "date": "September 14, 2016",
+        "month": "September",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 635,
+        "reading_level": 11.3,
+        "link_count": 14,
+        "image_count": 1
+    },
+    {
+        "reading_time": 2,
+        "title": "Introducing Frame.io + Slack ❤️",
+        "date": "August 17, 2016",
+        "month": "August",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 179,
+        "reading_level": 17,
+        "link_count": 5,
+        "image_count": 1
+    },
+    {
+        "reading_time": 3,
+        "title": "Master Frame.io in under 2 hours with Lynda.com",
+        "date": "July 7, 2016",
+        "month": "July",
+        "weekday": "Thursday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 756,
+        "reading_level": 13.2,
+        "link_count": 17,
+        "image_count": 3
+    },
+    {
+        "reading_time": 2,
+        "title": "Frame.io for iPhone is a 2016 Apple Design Award winner",
+        "date": "June 14, 2016",
+        "month": "June",
+        "weekday": "Tuesday",
+        "author": "Mark Christiansen",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 455,
+        "reading_level": 18.6,
+        "link_count": 11,
+        "image_count": 12
+    },
+    {
+        "reading_time": 2,
+        "title": "Introducing Frame.io for iOS",
+        "date": "June 2, 2016",
+        "month": "June",
+        "weekday": "Thursday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 206,
+        "reading_level": 14.8,
+        "link_count": 3,
+        "image_count": 5
+    },
+    {
+        "reading_time": 4,
+        "title": "Introducing Frame.io for Adobe Premiere Pro CC",
+        "date": "April 11, 2016",
+        "month": "April",
+        "weekday": "Monday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements",
+            "premiere pro"
+        ],
+        "word_count": 990,
+        "reading_level": 14.4,
+        "link_count": 7,
+        "image_count": 2
+    },
+    {
+        "reading_time": 2,
+        "title": "90,000 users and 75 new features and improvements",
+        "date": "April 5, 2016",
+        "month": "April",
+        "weekday": "Tuesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 627,
+        "reading_level": 8.5,
+        "link_count": 3,
+        "image_count": 0
+    },
+    {
+        "reading_time": 2,
+        "title": "All new ways to express yourself in Frame.io ???",
+        "date": "January 6, 2016",
+        "month": "January",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 573,
+        "reading_level": 26.1,
+        "link_count": 0,
+        "image_count": 27
+    },
+    {
+        "reading_time": 2,
+        "title": "Firefox, welcome to the family.",
+        "date": "November 23, 2015",
+        "month": "November",
+        "weekday": "Monday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 149,
+        "reading_level": 16.1,
+        "link_count": 0,
+        "image_count": 1
+    },
+    {
+        "reading_time": 2,
+        "title": "New player, faster playback",
+        "date": "November 17, 2015",
+        "month": "November",
+        "weekday": "Tuesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 392,
+        "reading_level": 16.6,
+        "link_count": 2,
+        "image_count": 0
+    },
+    {
+        "reading_time": 2,
+        "title": "Frame.io raises $2.2M from Accel Partners, Jared Leto & more",
+        "date": "October 7, 2015",
+        "month": "October",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 318,
+        "reading_level": 14.7,
+        "link_count": 5,
+        "image_count": 0
+    },
+    {
+        "reading_time": 2,
+        "title": "50,000 users and 100 new features and improvements",
+        "date": "August 19, 2015",
+        "month": "August",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 401,
+        "reading_level": 12.3,
+        "link_count": 4,
+        "image_count": 0
+    },
+    {
+        "reading_time": 2,
+        "title": "Seamless integration with Final Cut Pro X is here",
+        "date": "June 30, 2015",
+        "month": "June",
+        "weekday": "Tuesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 214,
+        "reading_level": 17.8,
+        "link_count": 5,
+        "image_count": 1
+    },
+    {
+        "reading_time": 2,
+        "title": "Over 25 improvements in Frame.io",
+        "date": "May 18, 2015",
+        "month": "May",
+        "weekday": "Monday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 445,
+        "reading_level": 11.2,
+        "link_count": 1,
+        "image_count": 0
+    },
+    {
+        "reading_time": 2,
+        "title": "Frame.io NAB Highlights",
+        "date": "April 24, 2015",
+        "month": "April",
+        "weekday": "Friday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 478,
+        "reading_level": 11.4,
+        "link_count": 4,
+        "image_count": 5
+    },
+    {
+        "reading_time": 2,
+        "title": "Frame.io Launch Report Card",
+        "date": "April 7, 2015",
+        "month": "April",
+        "weekday": "Tuesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 564,
+        "reading_level": 9,
+        "link_count": 4,
+        "image_count": 2
+    },
+    {
+        "reading_time": 2,
+        "title": "Finally! Frame.io Is Launching March 31st",
+        "date": "March 6, 2015",
+        "month": "March",
+        "weekday": "Friday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 307,
+        "reading_level": 13.1,
+        "link_count": 0,
+        "image_count": 1
+    },
+    {
+        "reading_time": 2,
+        "title": "Newsletter #2",
+        "date": "August 27, 2014",
+        "month": "August",
+        "weekday": "Wednesday",
+        "author": "Emery Wells",
+        "categories": [
+            "announcements"
+        ],
+        "word_count": 472,
+        "reading_level": 13.1,
+        "link_count": 7,
+        "image_count": 4
+    }
+]

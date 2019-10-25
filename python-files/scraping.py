@@ -165,5 +165,5 @@ print(len(articles_store))
 
 import json
 
-with open('data/articles.json', 'w') as document:
+with open('./code/webscraper-python/python-files/data/articles.json', 'w') as document:
     json.dump(articles_store, document)
